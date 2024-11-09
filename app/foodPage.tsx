@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
   container: { flex: 1, padding: 10, backgroundColor: "#FEE1DD" },
   item: {
     flex: 1,
-    height: 150,
+    height: 170,
     margin: 10,
     padding: 10,
     backgroundColor: "#e9c2c5",
@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
-  itemImage: { width: 120, height: 100, borderRadius: 8 },
+  itemImage: { width: 130, height: 110, borderRadius: 8 },
   itemTitle: { marginTop: 10, fontWeight: "bold", textAlign: "center" },
 });
 

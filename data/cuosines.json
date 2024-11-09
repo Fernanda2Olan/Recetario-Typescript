@@ -119,17 +119,50 @@
         "name": "Ossobuco",
         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpnB_OlaK1vNUoAeIlLTcM9EpX89hcIQ99Q&s"
       },
-      { "name": "Arancini" },
-      { "name": "Gnocchi" },
-      { "name": "Focaccia" },
-      { "name": "Calzone" },
-      { "name": "Panzanella" },
-      { "name": "Bruschetta" },
-      { "name": "Caprese Salad" },
-      { "name": "Tiramisu" },
-      { "name": "Panna Cotta" },
-      { "name": "Cannoli" },
-      { "name": "Gelato" }
+      {
+        "name": "Arancini",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj9DWd5DMzKLGGCUgfBXKRn4lbXymr171hA&s"
+      },
+      {
+        "name": "Gnocchi",
+        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/3A94F682-EF98-4805-AF10-607A8B69FC74/Derivates/F4247BBE-40EB-4264-A845-14BA911AD0C8.jpg"
+      },
+      {
+        "name": "Focaccia",
+        "imagen": "https://assets.elgourmet.com/wp-content/uploads/2024/04/E8A7999-1024x683.jpg.webp"
+      },
+      {
+        "name": "Calzone",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEkkXqxljfguDQOhnPBVCasTbcypSR0Cpzg&s"
+      },
+      {
+        "name": "Panzanella",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/08/09/panzanella.jpeg"
+      },
+      {
+        "name": "Bruschetta",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBt86s9DZYDEo1joHjYxfDG-K4KgGQAOZE1A&s"
+      },
+      {
+        "name": "Caprese Salad",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/caprese-salad-recipe-2-664ceea357d6f.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*"
+      },
+      {
+        "name": "Tiramisu",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6un6tBI7vJqkMxYJk36PY5zPlpqdbhU3Pg&s"
+      },
+      {
+        "name": "Panna Cotta",
+        "imagen": "https://i.blogs.es/bb86a3/panna_cotta/840_560.jpg"
+      },
+      {
+        "name": "Cannoli",
+        "imagen": "https://es.giallozafferano.com/images/2-256/Cannoli-siciliani_1200x800.jpg"
+      },
+      {
+        "name": "Gelato",
+        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/7C3748CF-C170-4EB7-9688-5A1E5A2523C2/Derivates/06966FFF-00F3-4B3E-96A2-6A9B2316F272.jpg"
+      }
     ],
     "Typical_Meal_Time": "1:00 PM - 2:00 PM",
     "Popular_Ingredients": ["Wheat", "Tomatoes", "Basil"]
@@ -138,20 +171,62 @@
     "Title": "Argentina 🇦🇷",
     "Emoji": "🥟",
     "Dishes": [
-      "Asado",
-      "Empanadas",
-      "Milanesa",
-      "Locro",
-      "Humitas",
-      "Choripan",
-      "Matambre",
-      "Provoleta",
-      "Alfajores",
-      "Dulce de Leche",
-      "Pastelitos",
-      "Facturas",
-      "Chimichurri",
-      "Vitel Toné"
+      {
+        "name": "Asado",
+        "imagen": "https://media.vogue.mx/photos/653192924eca207f85d0c0f2/master/w_1600%2Cc_limit/asado-argentino-2.jpg"
+      },
+      {
+        "name": "Empanadas",
+        "imagen": "https://laroussecocina.mx/wp-content/uploads/2020/07/empanadas-argentinas.jpg.webp"
+      },
+      {
+        "name": "Milanesa",
+        "imagen": "https://www.carniceriademadrid.es/wp-content/uploads/2022/11/receta-milanesa-ternera.jpg"
+      },
+      {
+        "name": "Locro",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Locro_argentino.JPG/1200px-Locro_argentino.JPG"
+      },
+      {
+        "name": "Humitas",
+        "imagen": "https://www.gourmet.cl/wp-content/uploads/2012/01/Humitas-e1325692985982.jpg"
+      },
+      {
+        "name": "Choripan",
+        "imagen": "https://www.laylita.com/recetas/wp-content/uploads/Receta-del-choripan.jpg"
+      },
+      {
+        "name": "Matambre",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYKN29KknMh5v7sYEvm3o8XWVq3LokwtU5w&s"
+      },
+      {
+        "name": "Provoleta",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkbR2VmX_ePDwXDrTjWdyhL_tmf5WVHWNFg&s"
+      },
+      {
+        "name": "Alfajores",
+        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/bb3ed3dc-075e-4453-a1e1-e20aef86d084/Derivates/e3fa5ec8-b722-4708-96c3-151d21d20572.jpg"
+      },
+      {
+        "name": "Dulce de Leche",
+        "imagen": "https://cdn0.recetasgratis.net/es/posts/4/0/3/dulce_de_leche_argentino_8304_600_square.jpg"
+      },
+      {
+        "name": "Pastelitos",
+        "imagen": "https://i.ytimg.com/vi/j8ewV58q77I/maxresdefault.jpg"
+      },
+      {
+        "name": "Facturas",
+        "imagen": "https://s7e6w6d2.rocketcdn.me/wp-content/uploads/2013/07/factuas.jpg"
+      },
+      {
+        "name": "Chimichurri",
+        "imagen": "https://deliciaskitchen.b-cdn.net/wp-content/uploads/2023/11/salsa-chimichurri-casera.jpg"
+      },
+      {
+        "name": "Vitel Toné",
+        "imagen": "https://cdn.eldestapeweb.com/eldestape/122021/1639667368385/vitel_tone.jpg"
+      }
     ],
     "Typical_Meal_Time": "9:00 PM - 11:00 PM",
     "Popular_Ingredients": ["Beef", "Wheat", "Garlic"]
