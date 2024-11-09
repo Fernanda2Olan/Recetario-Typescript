@@ -1,0 +1,308 @@
+{
+  "Mexican": {
+    "Title": "Mexico 🇲🇽",
+    "Emoji": "🌮",
+    "Dishes": [
+      {
+        "name": "Chilaquiles",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JFXvJb240DcARGSqHEI0wvnItSeZ_vEhA5A6AFOopwz9puDU8lQPObjJaR7jYb5X-Qc&usqp=CAU"
+      },
+      {
+        "name": "Tacos 🌮",
+        "imagen": "https://comedera.com/wp-content/uploads/sites/9/2017/08/tacos-al-pastor-receta.jpg?w=500&h=446&crop=1"
+      },
+      {
+        "name": "Sopes",
+        "imagen": "https://imag.bonviveur.com/sopes-de-pollo.jpg"
+      },
+      {
+        "name": "Enchiladas",
+        "imagen": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipes%2F2024-05-mexican-enchiladas%2Fmexican-enchiladas-435"
+      },
+      {
+        "name": "Pozole",
+        "imagen": "https://sabrosano.com/wp-content/uploads/2020/05/Pozole_06.jpg"
+      },
+      {
+        "name": "Tamales",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREGBcuLYpAeU9MKBrEWR_G5pDh3l8SoraOXQ&s"
+      },
+      {
+        "name": "Mole Poblano",
+        "imagen": "https://assets.elgourmet.com/wp-content/uploads/2023/03/mole-_9IMJjkql3RCWT1eg6AHUD8PKyZLh7o-1024x683.png.webp"
+      },
+      {
+        "name": "Cochinita Pibil",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHPpP83Hp5DwAlMJEzZKG3YQxBL_xrdpB_g&s"
+      },
+      {
+        "name": "Tlayudas",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4l2lPON8cDa4NQxBOfoil5LjXDV_bDElFig&s"
+      },
+      {
+        "name": "Chiles en Nogada",
+        "imagen": "https://offloadmedia.feverup.com/monterreysecreto.com/wp-content/uploads/2022/09/13041754/chile-nogada-1-1024x683.jpg"
+      },
+      {
+        "name": "Enfrijoladas",
+        "imagen": "https://sabrosano.com/wp-content/uploads/2020/05/Enfrijoladas_06.jpg"
+      },
+      {
+        "name": "Quesadillas",
+        "imagen": "https://www.vvsupremo.com/wp-content/uploads/2015/11/900X570_Two-Cheese-Quesadillas.jpg"
+      },
+      {
+        "name": "Gorditas",
+        "imagen": "https://www.cocinavital.mx/wp-content/uploads/2023/04/gorditas-de-migajas.jpg"
+      },
+      {
+        "name": "Huaraches",
+        "imagen": "https://www.daisybrand.com/wp-content/uploads/2019/12/huaraches-770x628_2932.jpg"
+      },
+      {
+        "name": "Pambazos",
+        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/793A97EF-5AB6-42BC-B6D7-BA32F58729E8/Derivates/71B61452-6C6C-4FF4-A166-FC7206C9FA05.jpg"
+      },
+      {
+        "name": "Esquites",
+        "imagen": "https://www.mylatinatable.com/wp-content/uploads/2019/07/Esquites-1.jpg"
+      },
+      {
+        "name": "Elote",
+        "imagen": "https://lh5.googleusercontent.com/proxy/35RKuDQkAYEOebSZltToqppl5BZql9cXL1r_RtXAmz5os9G7Fy-xsqBUGXxmwZolhRqMhMecqT9ZdaADuSdsmMNbqN7yGkxZVNWhyEta0FLZQOxQce3Gix_kUPVwcw"
+      },
+      {
+        "name": "Tortas",
+        "imagen": "https://cocina-casera.com/mx/wp-content/uploads/2017/08/torta-de-jamon-1.jpg"
+      },
+      {
+        "name": "Burritos",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVHkErpco4_1TBy30POHaku3k38tzIrF48A&s"
+      }
+    ],
+    "Typical_Meal_Time": "1:00 PM - 3:00 PM",
+    "Popular_Ingredients": ["Corn", "Beans", "Avocado"]
+  },
+  "Italian": {
+    "Title": "Italy 🇮🇹",
+    "Emoji": "🍝",
+    "Dishes": [
+      {
+        "name": "Pasta",
+        "imagen": "https://mercadoventas.es/wp-content/uploads/2024/09/receta-de-pasta.jpg"
+      },
+      {
+        "name": "Pizza",
+        "imagen": "https://www.hola.com/horizon/landscape/e9e1e82cb873-pepperoni-pizza-abob-t.jpg"
+      },
+      {
+        "name": "Ravioli",
+        "imagen": "https://gourmetdemexico.com.mx/wp-content/uploads/2024/03/ravioli-1024x678.jpg"
+      },
+      {
+        "name": "Lasagna",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjCnEj8ga3_zb4XhCuNyXm9oke8Q2ZDSGQA&s"
+      },
+      {
+        "name": "Spaghetti alla Carbonara",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1ACstI80COEUWrK2MiuapCEV-hHgPGJ6Xw&s"
+      },
+      {
+        "name": "Risotto",
+        "imagen": "https://mandolina.co/wp-content/uploads/2024/05/risotto-1200x900.jpg"
+      },
+      {
+        "name": "Polenta",
+        "imagen": "https://images.cookforyourlife.org/wp-content/uploads/2017/07/easy-polenta-e1720730553758.jpg"
+      },
+      {
+        "name": "Ossobuco",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpnB_OlaK1vNUoAeIlLTcM9EpX89hcIQ99Q&s"
+      },
+      { "name": "Arancini" },
+      { "name": "Gnocchi" },
+      { "name": "Focaccia" },
+      { "name": "Calzone" },
+      { "name": "Panzanella" },
+      { "name": "Bruschetta" },
+      { "name": "Caprese Salad" },
+      { "name": "Tiramisu" },
+      { "name": "Panna Cotta" },
+      { "name": "Cannoli" },
+      { "name": "Gelato" }
+    ],
+    "Typical_Meal_Time": "1:00 PM - 2:00 PM",
+    "Popular_Ingredients": ["Wheat", "Tomatoes", "Basil"]
+  },
+  "Argentian": {
+    "Title": "Argentina 🇦🇷",
+    "Emoji": "🥟",
+    "Dishes": [
+      "Asado",
+      "Empanadas",
+      "Milanesa",
+      "Locro",
+      "Humitas",
+      "Choripan",
+      "Matambre",
+      "Provoleta",
+      "Alfajores",
+      "Dulce de Leche",
+      "Pastelitos",
+      "Facturas",
+      "Chimichurri",
+      "Vitel Toné"
+    ],
+    "Typical_Meal_Time": "9:00 PM - 11:00 PM",
+    "Popular_Ingredients": ["Beef", "Wheat", "Garlic"]
+  },
+  "UnitedStatian": {
+    "Title": "United States 🇺🇸",
+    "Emoji": "🍔🍟",
+    "Dishes": [
+      "Hamburger",
+      "Fries",
+      "Pizza",
+      "Hot Dog",
+      "Cheeseburger",
+      "Mac and Cheese",
+      "Fried Chicken",
+      "Pancakes",
+      "Waffles",
+      "Donuts",
+      "Apple Pie",
+      "Chocolate Chip Cookies",
+      "Brownies",
+      "Ice Cream",
+      "Clam Chowder",
+      "Lobster Roll",
+      "BBQ Ribs",
+      "Steak"
+    ],
+    "Typical_Meal_Time": "6:00 PM - 8:00 PM",
+    "Popular_Ingredients": ["Beef", "Chicken", "Potatoes"]
+  },
+  "Japanesse": {
+    "Title": "Japan 🇯🇵",
+    "Emoji": "🍣",
+    "Dishes": [
+      "Sushi",
+      "Ramen",
+      "Tempura",
+      "Udon",
+      "Soba",
+      "Miso Soup",
+      "Onigiri",
+      "Yakitori",
+      "Gyoza",
+      "Tonkatsu",
+      "Teriyaki",
+      "Sashimi",
+      "Mochi",
+      "Dorayaki",
+      "Taiyaki",
+      "Oden",
+      "Shabu-shabu",
+      "Sukiyaki"
+    ],
+    "Typical_Meal_Time": "12:00 PM - 1:00 PM",
+    "Popular_Ingredients": ["Rice", "Fish", "Soy Sauce"]
+  },
+  "French": {
+    "Title": "France🇫🇷",
+    "Emoji": "🫕",
+    "Dishes": [
+      "Croissant",
+      "Baguette",
+      "Macaron",
+      "Crème brûlée",
+      "Soupe à l'oignon gratinée",
+      "Boeuf bourguignon",
+      "Coq au vin",
+      "Ratatouille",
+      "Cassoulet",
+      "Crêpes",
+      "Pain au chocolat",
+      "Tarte Tatin",
+      "Éclair",
+      "Mille-feuille",
+      "Quiche Lorraine",
+      "Gratin Dauphinois",
+      "Steak Frites",
+      "Foie gras"
+    ],
+    "Typical_Meal_Time": "12:00 PM - 2:00 PM",
+    "Popular_Ingredients": ["Wheat", "Butter", "Cheese"]
+  },
+  "Spanish": {
+    "Title": "Spain 🇪🇸",
+    "Emoji": "🥘",
+    "Dishes": [
+      "Paella",
+      "Tortilla Española",
+      "Gazpacho",
+      "Jamón Ibérico",
+      "Chorizo",
+      "Churros",
+      "Cocido Madrileño",
+      "Fabada Asturiana",
+      "Pulpo a la Gallega",
+      "Gambas al Ajillo"
+    ],
+    "Typical_Meal_Time": "2:00 PM - 3:00 PM",
+    "Popular_Ingredients": ["Olive Oil", "Garlic", "Saffron"]
+  },
+  "Indian": {
+    "Title": "India 🇮🇳",
+    "Emoji": "🍛",
+    "Dishes": [
+      "Chicken Tikka Masala",
+      "Naan Bread",
+      "Samosas",
+      "Biryani",
+      "Butter Chicken",
+      "Tandoori Chicken",
+      "Palak Paneer",
+      "Dal Makhani",
+      "Chana Masala",
+      "Vada Pav"
+    ],
+    "Typical_Meal_Time": "1:00 PM - 2:00 PM",
+    "Popular_Ingredients": ["Spices", "Rice", "Lentils"]
+  },
+  "Chinese": {
+    "Title": "China 🇨🇳",
+    "Emoji": "🍜",
+    "Dishes": [
+      "Peking Duck",
+      "Dim Sum",
+      "Noodles",
+      "Fried Rice",
+      "Spring Rolls",
+      "Dumplings",
+      "Sweet and Sour Pork",
+      "Kung Pao Chicken",
+      "Mapo Tofu",
+      "Chow Mein"
+    ],
+    "Typical_Meal_Time": "12:00 PM - 1:00 PM",
+    "Popular_Ingredients": ["Rice", "Noodles", "Soy Sauce"]
+  },
+  "Greek": {
+    "Title": "Greece 🇬🇷",
+    "Emoji": "🥗",
+    "Dishes": [
+      "Moussaka",
+      "Gyros",
+      "Souvlaki",
+      "Greek Salad",
+      "Tzatziki",
+      "Dolmades",
+      "Spanakopita",
+      "Baklava",
+      "Loukoumades"
+    ],
+    "Typical_Meal_Time": "2:00 PM - 3:00 PM",
+    "Popular_Ingredients": ["Olive Oil", "Lemon", "Oregano"]
+  }
+}
