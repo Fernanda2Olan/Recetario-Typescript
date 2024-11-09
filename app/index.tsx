@@ -1,7 +1,6 @@
 import FoodCard from "@/components/FoodCard";
-import { Link } from "expo-router";
 import { useEffect, useState } from "react";
-import { FlatList, StyleSheet, Text, View } from "react-native";
+import { FlatList, StyleSheet, TouchableOpacity, View } from "react-native";
 
 export default function Index() {
   const [categoria, setCategoria] = useState<{ key: string; info: any }[]>([]);
@@ -25,12 +24,12 @@ export default function Index() {
         numColumns={2}
         data={categoria}
         renderItem={(itemData) => (
-          <View style={styles.foodCard}>
+          <TouchableOpacity style={styles.foodCard} onPress={() => {}}>
             <FoodCard
               title={itemData.item.info.Title}
               info={itemData.item.info}
             />
-          </View>
+          </TouchableOpacity>
         )}
       />
     </View>
