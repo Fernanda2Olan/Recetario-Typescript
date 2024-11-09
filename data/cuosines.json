@@ -235,24 +235,78 @@
     "Title": "United States 🇺🇸",
     "Emoji": "🍔🍟",
     "Dishes": [
-      "Hamburger",
-      "Fries",
-      "Pizza",
-      "Hot Dog",
-      "Cheeseburger",
-      "Mac and Cheese",
-      "Fried Chicken",
-      "Pancakes",
-      "Waffles",
-      "Donuts",
-      "Apple Pie",
-      "Chocolate Chip Cookies",
-      "Brownies",
-      "Ice Cream",
-      "Clam Chowder",
-      "Lobster Roll",
-      "BBQ Ribs",
-      "Steak"
+      {
+        "name": "Hamburger",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddjpE64jVcMqw9x270i2vfbklSHIt-LzP7w&s"
+      },
+      {
+        "name": "Fries",
+        "imagen": "https://cdn.britannica.com/34/206334-050-7637EB66/French-fries.jpg"
+      },
+      {
+        "name": "Pizza",
+        "imagen": "https://www.novachef.es/media/images/pizza-pepperoni.jpg"
+      },
+      {
+        "name": "Hot Dog",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaKqDVCWtGQzA2-d1WvRmTfPi0krczx2pwzQ&s"
+      },
+      {
+        "name": "Cheeseburger",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cheeseburger.jpg"
+      },
+      {
+        "name": "Mac and Cheese",
+        "imagen": "https://www.allrecipes.com/thmb/e8uotDI18ieXNBY0KpmtGKbxMRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238691-Simple-Macaroni-And-Cheese-mfs_008-4x3-6ed91ba87a1344558aacc0f9ef0f4b41.jpg"
+      },
+      {
+        "name": "Fried Chicken",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fried-Chicken-Set.jpg/800px-Fried-Chicken-Set.jpg"
+      },
+      {
+        "name": "Pancakes",
+        "imagen": "https://www.allrecipes.com/thmb/6x0Lw9L4MEU8INHnK4tXGRV9XWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20334-banana-pancakes-i-DDMFS-4x3-9f291f03044247d48c9ec26917952402.jpg"
+      },
+      {
+        "name": "Waffles",
+        "imagen": "https://www.elespectador.com/resizer/gQOpefuhxVG5V8RYKBA9jZ0Rajc=/arc-anglerfish-arc2-prod-elespectador/public/2HSDHX52VNCN7EEQD6OUZNJDCE.jpg"
+      },
+      {
+        "name": "Donuts",
+        "imagen": "https://images.squarespace-cdn.com/content/v1/5a563c1cd55b41fd7759755f/1671904710126-A9EX9GGZOA1B8PL1EP6B/Dozen+Classics.JPG?format=1000w"
+      },
+      {
+        "name": "Apple Pie",
+        "imagen": "https://www.southernliving.com/thmb/bbDY1d_ySIrCFcq8WNBkR-3x6pU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2589601_Mailb_Mailbox_Apple_Pie_003-da802ff7a8984b2fa9aa0535997ab246.jpg"
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "imagen": "https://static01.nyt.com/images/2022/02/12/dining/JT-Chocolate-Chip-Cookies/JT-Chocolate-Chip-Cookies-threeByTwoMediumAt2X.jpg"
+      },
+      {
+        "name": "Brownies",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3mIud00KxquRBJTaIYRO05Bv19OmYQTTjg&s"
+      },
+      {
+        "name": "Ice Cream",
+        "imagen": "https://www.allrecipes.com/thmb/qU9RzlqCysXOoaH-urHNCCQLXLs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-56803-very-chocolate-ice-cream-Beauties-4x3-0343db03e550403aaab1a0d52cbef744.jpg"
+      },
+      {
+        "name": "Clam Chowder",
+        "imagen": "https://www.allrecipes.com/thmb/ElqwjwX_F7u9wPDB6dfHYxYmVCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13078-New-England-Clam-Chowder-DDMFS-3X4-0560-e9b8d6db885546538990735f2d4d2199.jpg"
+      },
+      {
+        "name": "Lobster Roll",
+        "imagen": "https://www.allrecipes.com/thmb/DgBXXAvMRVT4084of-AP-hbNil4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/98979-lobster-rolls-ddmfs-beauty-4x3-BG-3540-9f9cc53d218344f6ab3cbee7bbc958c7.jpg"
+      },
+      {
+        "name": "BBQ Ribs",
+        "imagen": "https://www.allrecipes.com/thmb/IWVelWahUb2gQxixWJC2N-HXp0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22469-Barbecue-Ribs-ddmfs-2x1-210-e799db142f594b00bb317bb357d0971c.jpg"
+      },
+      {
+        "name": "Steak",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjfGSawcBfgKfnhrTvtPkAUV5qUhcucuIGsw&s"
+      }
     ],
     "Typical_Meal_Time": "6:00 PM - 8:00 PM",
     "Popular_Ingredients": ["Beef", "Chicken", "Potatoes"]
@@ -261,24 +315,78 @@
     "Title": "Japan 🇯🇵",
     "Emoji": "🍣",
     "Dishes": [
-      "Sushi",
-      "Ramen",
-      "Tempura",
-      "Udon",
-      "Soba",
-      "Miso Soup",
-      "Onigiri",
-      "Yakitori",
-      "Gyoza",
-      "Tonkatsu",
-      "Teriyaki",
-      "Sashimi",
-      "Mochi",
-      "Dorayaki",
-      "Taiyaki",
-      "Oden",
-      "Shabu-shabu",
-      "Sukiyaki"
+      {
+        "name": "Sushi",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgj3iNHytlOzZllEtcDzqBoIwnSGSMmSQmLA&s"
+      },
+      {
+        "name": "Ramen",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_o86UH4J0lwaThBv-fLgga7HE10r1NlkJ5g&s"
+      },
+      {
+        "name": "Tempura",
+        "imagen": "https://www.cocinadelirante.com/800x600/filters:format(webp):quality(75)/sites/default/files/images/2024/09/tempura-verduras.jpg"
+      },
+      {
+        "name": "Udon",
+        "imagen": "https://www.hola.com/horizon/landscape/b1dd42e38c3d-fideos-udon-en-caldo-dashi-con-huevo-shiitakes-y-rabano-t.jpg"
+      },
+      {
+        "name": "Soba",
+        "imagen": "https://www.onesupermarket.es/cdn/shop/articles/fideos-soba-onesupermarket.jpg?v=1651250218&width=2048"
+      },
+      {
+        "name": "Miso Soup",
+        "imagen": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2024-01-miso-soup%2Fmiso-soup-030"
+      },
+      {
+        "name": "Onigiri",
+        "imagen": "https://www.onigiri.casa/static/8fd936b83d13a9eed5b0cbe6346beccd/68421/onigiri-salmon.jpg"
+      },
+      {
+        "name": "Yakitori",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPG7cLmaa10d1YZ1MXjFs_ON_uIEp8eLVm4w&s"
+      },
+      {
+        "name": "Gyoza",
+        "imagen": "https://www.recetas-japonesas.com/base/stock/Recipe/gyoza-de-carne/gyoza-de-carne_web.jpg.webp"
+      },
+      {
+        "name": "Tonkatsu",
+        "imagen": "https://static01.nyt.com/images/2024/02/28/multimedia/ND-tonkatsu-hbtg/ND-tonkatsu-hbtg-googleFourByThree.jpg"
+      },
+      {
+        "name": "Teriyaki",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5v7mGU513-ONSh-_dnOgnuPp1fBYP9KubUg&s"
+      },
+      {
+        "name": "Sashimi",
+        "imagen": "https://monstersushi.es/blog/wp-content/uploads/2022/06/Sushi-Clasic-Completo-scaled.jpg"
+      },
+      {
+        "name": "Mochi",
+        "imagen": "https://img-global.cpcdn.com/recipes/2bcbb9e064fee3ff/1200x630cq70/photo.jpg"
+      },
+      {
+        "name": "Dorayaki",
+        "imagen": "https://sal-pimienta.com/wp-content/uploads/2022/03/20220311-DSC00033-2-scaled.jpg"
+      },
+      {
+        "name": "Taiyaki",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqaHmKh6WL4GiBoihizyBe7wOD9xqYGsxMWA&s"
+      },
+      {
+        "name": "Oden",
+        "imagen": "https://www.nippon.com/es/ncommon/contents/japan-data/2089173/2089173.jpg"
+      },
+      {
+        "name": "Shabu-shabu",
+        "imagen": "https://japon-secreto.com/wp-content/uploads/2023/01/shabushabu01.jpg"
+      },
+      {
+        "name": "Sukiyaki",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBVOHZX_DcDhYQSHsuQqRyKVJRWbCIz-1Suw&s"
+      }
     ],
     "Typical_Meal_Time": "12:00 PM - 1:00 PM",
     "Popular_Ingredients": ["Rice", "Fish", "Soy Sauce"]
@@ -287,24 +395,78 @@
     "Title": "France🇫🇷",
     "Emoji": "🫕",
     "Dishes": [
-      "Croissant",
-      "Baguette",
-      "Macaron",
-      "Crème brûlée",
-      "Soupe à l'oignon gratinée",
-      "Boeuf bourguignon",
-      "Coq au vin",
-      "Ratatouille",
-      "Cassoulet",
-      "Crêpes",
-      "Pain au chocolat",
-      "Tarte Tatin",
-      "Éclair",
-      "Mille-feuille",
-      "Quiche Lorraine",
-      "Gratin Dauphinois",
-      "Steak Frites",
-      "Foie gras"
+      {
+        "name": "Croissant",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHZB-TTZEKegzkDep9BIrhbGX4wAVMe8T2g&s"
+      },
+      {
+        "name": "Baguette",
+        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/B10F0941-3518-440D-A69F-72EFF5F7826B/Derivates/D5691ACE-1B10-42D8-8364-11402524A36D.jpg"
+      },
+      {
+        "name": "Macaron",
+        "imagen": "https://www.jordanwinery.com/wp-content/uploads/2020/04/French-Macaron-Cookie-Recipe-WebHero-6435.jpg"
+      },
+      {
+        "name": "Crème brûlée",
+        "imagen": "https://www.splenda.com/wp-content/uploads/2020/05/Creme-Brulee-website-8275-scaled.jpg"
+      },
+      {
+        "name": "Soupe à l'oignon gratinée",
+        "imagen": "https://www.academiedugout.fr/images/48801/1200-686/photo-ouverture.jpg?poix=50&poiy=50"
+      },
+      {
+        "name": "Boeuf bourguignon",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTloIMsCvHcLYzhzw8gs6nnbuyUhRqSIhNoYQ&s"
+      },
+      {
+        "name": "Coq au vin",
+        "imagen": "https://static01.nyt.com/images/2023/08/24/multimedia/MC-Coq-Au-Van-ctpm/MC-Coq-Au-Van-ctpm-superJumbo.jpg"
+      },
+      {
+        "name": "Ratatouille",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrVY1s5Rmmh7ZFqHam721yGI6h7DKtFHIkA&s"
+      },
+      {
+        "name": "Cassoulet",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMqSzGBpJxvIceTpPGQGH21Wni9OfVhbWdQ&s"
+      },
+      {
+        "name": "Crêpes",
+        "imagen": "https://annaspasteleria.com/images/2019post/_facebookShareImage/IMG_7029editweb.jpg"
+      },
+      {
+        "name": "Pain au chocolat",
+        "imagen": "https://www.thespruceeats.com/thmb/D9po8nbJ09H8YjW_cFcpAQH7Q5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-easy-pain-au-chocolat-recipe-1374869-hero-C-e1d7f1e947094ab39c3ab063039202e0.jpg"
+      },
+      {
+        "name": "Tarte Tatin",
+        "imagen": "https://imag.bonviveur.com/tarta-tatin-de-manzana-de-las-hermanas-tatin.jpg"
+      },
+      {
+        "name": "Éclair",
+        "imagen": "https://imag.bonviveur.com/interior-de-los-eclairs-de-crema-y-chocolate.jpg"
+      },
+      {
+        "name": "Mille-feuille",
+        "imagen": "https://preppykitchen.com/wp-content/uploads/2020/05/Mille-Feuille-Recipe-f-500x375.jpg"
+      },
+      {
+        "name": "Quiche Lorraine",
+        "imagen": "https://laroussecocina.mx/wp-content/uploads/2024/06/09_Quiche_Lorrain_COVER.jpg.webp"
+      },
+      {
+        "name": "Gratin Dauphinois",
+        "imagen": "https://arteflame.com/cdn/shop/articles/Gratin_Dauphinois.webp?v=1723394366&width=1600"
+      },
+      {
+        "name": "Steak Frites",
+        "imagen": "https://arteflame.com/cdn/shop/articles/Steak_Frites.webp?crop=center&height=1200&v=1723395122&width=1200"
+      },
+      {
+        "name": "Foie gras",
+        "imagen": "https://arteflame.com/cdn/shop/articles/Grilled_Foie_Gras_with_Caramelized_Crust_and_Fruit_Reduction.webp?v=1726164077&width=1600"
+      }
     ],
     "Typical_Meal_Time": "12:00 PM - 2:00 PM",
     "Popular_Ingredients": ["Wheat", "Butter", "Cheese"]
@@ -313,16 +475,46 @@
     "Title": "Spain 🇪🇸",
     "Emoji": "🥘",
     "Dishes": [
-      "Paella",
-      "Tortilla Española",
-      "Gazpacho",
-      "Jamón Ibérico",
-      "Chorizo",
-      "Churros",
-      "Cocido Madrileño",
-      "Fabada Asturiana",
-      "Pulpo a la Gallega",
-      "Gambas al Ajillo"
+      {
+        "name": "Paella",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lcYfTmmpU9_0M1swbJEjT80Gz8BO9lIgpQ&s"
+      },
+      {
+        "name": "Tortilla Española",
+        "imagen": "https://mojo.generalmills.com/api/public/content/9xIHKwJDH0-1wbHPsVCCVQ_gmi_hi_res_jpeg.jpeg?v=2bfc22c6&t=16e3ce250f244648bef28c5949fb99ff"
+      },
+      {
+        "name": "Gazpacho",
+        "imagen": "https://i.blogs.es/e64620/gazpacho/1366_2000.jpg"
+      },
+      {
+        "name": "Jamón Ibérico",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrAtkeX0214muY7mPos8IrxZlHnMaoT3-1g&s"
+      },
+      {
+        "name": "Chorizo",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThg8MGLdqPDHJHm9VM2cLElcCMWqF5MJc_Dw&s"
+      },
+      {
+        "name": "Churros",
+        "imagen": "https://www.lanacion.com.ar/resizer/v2/churros-73IWHYYOHRF5LLEV5SBNY33J3M.jpg?auth=faca958597f1068a605591e02df8a4fe9f1b656cf30d1637fe0d6c8b3b4ae18d&width=420&height=280&quality=70&smart=true"
+      },
+      {
+        "name": "Cocido Madrileño",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRmPzgu2VhHonHzho5axbP_0_yYEztUI5rg&s"
+      },
+      {
+        "name": "Fabada Asturiana",
+        "imagen": "https://comedera.com/wp-content/uploads/sites/9/2018/09/fabada-asturiana.jpg"
+      },
+      {
+        "name": "Pulpo a la Gallega",
+        "imagen": "https://www.laespanolaaceites.com/wp-content/uploads/2019/05/pulpo-a-la-gallega-1080x671.jpg"
+      },
+      {
+        "name": "Gambas al Ajillo",
+        "imagen": "https://www.unileverfoodsolutions.es/dam/global-ufs/mcos/spain/acm/selling-story-calcmenu/gambas-ajillo-header.jpg"
+      }
     ],
     "Typical_Meal_Time": "2:00 PM - 3:00 PM",
     "Popular_Ingredients": ["Olive Oil", "Garlic", "Saffron"]
@@ -331,16 +523,46 @@
     "Title": "India 🇮🇳",
     "Emoji": "🍛",
     "Dishes": [
-      "Chicken Tikka Masala",
-      "Naan Bread",
-      "Samosas",
-      "Biryani",
-      "Butter Chicken",
-      "Tandoori Chicken",
-      "Palak Paneer",
-      "Dal Makhani",
-      "Chana Masala",
-      "Vada Pav"
+      {
+        "name": "Chicken Tikka Masala",
+        "imagen": "https://www.allrecipes.com/thmb/1ul-jdOz8H4b6BDrRcYOuNmJgt4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/239867chef-johns-chicken-tikka-masala-ddmfs-3X4-0572-e02a25f8c7b745459a9106e9eb13de10.jpg"
+      },
+      {
+        "name": "Naan Bread",
+        "imagen": "https://lilluna.com/wp-content/uploads/2022/11/naan3-resize-13.jpg"
+      },
+      {
+        "name": "Samosas",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG545FDRuisaSfjR84XJcSET-QxI8d1tBANw&s"
+      },
+      {
+        "name": "Biryani",
+        "imagen": "https://www.maggiarabia.com/sites/default/files/styles/home_stage_944_531/public/srh_recipes/30c29da8aec1403f42e82552d927abab.png?h=4f5b30f1&itok=vMhn6_eK"
+      },
+      {
+        "name": "Butter Chicken",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgjCa8xIZL3jERYF_GJQtNOM9rMSsIjRtwvQ&s"
+      },
+      {
+        "name": "Tandoori Chicken",
+        "imagen": "https://www.allrecipes.com/thmb/EDDjG28lLcvR9evPlQICAr-A8sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/50347-indian-tandoori-chicken-DDMFS-2x1-3032-fc3ee15caaba42859c7117827771884b.jpg"
+      },
+      {
+        "name": "Palak Paneer",
+        "imagen": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/palak-paneer-3.jpg"
+      },
+      {
+        "name": "Dal Makhani",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIMmPq015HLQYH0kXhpbfwMePcJOxUcMyNA&s"
+      },
+      {
+        "name": "Chana Masala",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLZ9zAbgO4qFIe-JMqFMNVwAOSCsL27rtLQ&s"
+      },
+      {
+        "name": "Vada Pav",
+        "imagen": "https://www.seriouseats.com/thmb/1jR0e6R3EVT6JEYYNGcneFMY2rs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240308-VadaPav-SEA-KanikaandJatinSharma-hero-006f8f5a76254feca693a8b4a4bd60c0.jpg"
+      }
     ],
     "Typical_Meal_Time": "1:00 PM - 2:00 PM",
     "Popular_Ingredients": ["Spices", "Rice", "Lentils"]
@@ -349,16 +571,46 @@
     "Title": "China 🇨🇳",
     "Emoji": "🍜",
     "Dishes": [
-      "Peking Duck",
-      "Dim Sum",
-      "Noodles",
-      "Fried Rice",
-      "Spring Rolls",
-      "Dumplings",
-      "Sweet and Sour Pork",
-      "Kung Pao Chicken",
-      "Mapo Tofu",
-      "Chow Mein"
+      {
+        "name": "Peking Duck",
+        "imagen": "https://static01.nyt.com/images/2019/01/28/dining/kc-peking-duck/kc-peking-duck-superJumbo-v2.jpg"
+      },
+      {
+        "name": "Dim Sum",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/07/18/fotografia-de-un-dim-sum.jpeg"
+      },
+      {
+        "name": "Noodles",
+        "imagen": "https://i.blogs.es/8a1df3/dap2-2/1366_2000.jpg"
+      },
+      {
+        "name": "Fried Rice",
+        "imagen": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipes%2F2024-04-fried-rice%2Ffried-rice-060_1"
+      },
+      {
+        "name": "Spring Rolls",
+        "imagen": "https://www.indianhealthyrecipes.com/wp-content/uploads/2013/12/spring-rolls.jpg"
+      },
+      {
+        "name": "Dumplings",
+        "imagen": "https://t1.uc.ltmcdn.com/es/posts/9/5/9/como_hacer_dumplings_chinos_46959_600.jpg"
+      },
+      {
+        "name": "Sweet and Sour Pork",
+        "imagen": "https://cdn.sanity.io/images/2r0kdewr/production/0bc6f529c1200c84a8465d9317c3029898a4d4fa-1500x844.jpg"
+      },
+      {
+        "name": "Kung Pao Chicken",
+        "imagen": "https://www.seriouseats.com/thmb/AaMf6tliWc3jh0R-9KLiJG5fzZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2014__07__2021-02-12-Take-Out-Kung-Pao-Chicken-MHOM-11-c46f6c06713c45c5a287ddbf08779d04.jpg"
+      },
+      {
+        "name": "Mapo Tofu",
+        "imagen": "https://cookingwithdog.com/wp-content/uploads/2017/04/mapo-tofu-00.jpg"
+      },
+      {
+        "name": "Chow Mein",
+        "imagen": "https://img-global.cpcdn.com/recipes/45397933c24452d8/1200x630cq70/photo.jpg"
+      }
     ],
     "Typical_Meal_Time": "12:00 PM - 1:00 PM",
     "Popular_Ingredients": ["Rice", "Noodles", "Soy Sauce"]
@@ -367,15 +619,42 @@
     "Title": "Greece 🇬🇷",
     "Emoji": "🥗",
     "Dishes": [
-      "Moussaka",
-      "Gyros",
-      "Souvlaki",
-      "Greek Salad",
-      "Tzatziki",
-      "Dolmades",
-      "Spanakopita",
-      "Baklava",
-      "Loukoumades"
+      {
+        "name": "Moussaka",
+        "imagen": "https://www.recipetineats.com/tachyon/2019/03/Greek-Moussaka_3-re-edited-SQ.jpg?resize=500%2C375"
+      },
+      {
+        "name": "Gyros",
+        "imagen": "https://i.blogs.es/b0c70d/gyros-griego-de-ternera/1366_2000.jpg"
+      },
+      {
+        "name": "Souvlaki",
+        "imagen": "https://www.allrecipes.com/thmb/t9I4JgEI8-TnPcnAHV-RvQFcEFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14713-souvlaki-ddmfs-Beauty-3x4-06471d380b394255a7716405c4ec0a22.jpg"
+      },
+      {
+        "name": "Greek Salad",
+        "imagen": "https://feelgoodfoodie.net/wp-content/uploads/2020/05/Greek-Salad-TIMG.jpg"
+      },
+      {
+        "name": "Tzatziki",
+        "imagen": "https://www.allrecipes.com/thmb/A7hvzxDejp12Qlu3ZkRkPcHbhIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/145409_GreekTzatziki_ddmfs_2x1_3904-dfa1ed5c155645beaa4a5834afb618dc.jpg"
+      },
+      {
+        "name": "Dolmades",
+        "imagen": "https://mostly-greek.com/wp-content/uploads/2018/08/20180715_170443.jpg"
+      },
+      {
+        "name": "Spanakopita",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYipDnSHXnXdFGMJcX166WkX9Q5Prl8U90Kw&s"
+      },
+      {
+        "name": "Baklava",
+        "imagen": "https://i.ytimg.com/vi/r35t0IVGK_Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB3XAXA_H5d4KpTIuO81eaBeTyaNA"
+      },
+      {
+        "name": "Loukoumades",
+        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/eda9632d18702d7f7c648fd4424459d5/Derivates/8dd5474c9079c863a7f21eda1db34c6d66821a31.jpg"
+      }
     ],
     "Typical_Meal_Time": "2:00 PM - 3:00 PM",
     "Popular_Ingredients": ["Olive Oil", "Lemon", "Oregano"]
