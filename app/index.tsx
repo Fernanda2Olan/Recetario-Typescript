@@ -1,4 +1,5 @@
 import FoodCard from "@/components/FoodCard";
+import { Link } from "expo-router";
 import { useEffect, useState } from "react";
 import { FlatList, StyleSheet, TouchableOpacity, View } from "react-native";
 
@@ -23,13 +24,14 @@ export default function Index() {
       <FlatList
         numColumns={2}
         data={categoria}
+        keyExtractor={(item) => item.key}
         renderItem={(itemData) => (
-          <TouchableOpacity style={styles.foodCard} onPress={() => {}}>
+          <View style={styles.foodCardStyles}>
             <FoodCard
               title={itemData.item.info.Title}
               info={itemData.item.info}
             />
-          </TouchableOpacity>
+          </View>
         )}
       />
     </View>
@@ -42,7 +44,7 @@ const styles = StyleSheet.create({
     padding: 10,
     backgroundColor: "#FEE1DD",
   },
-  foodCard: {
+  foodCardStyles: {
     flex: 1,
     height: 150,
     margin: 10,

@@ -5,83 +5,121 @@
     "Dishes": [
       {
         "name": "Chilaquiles",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JFXvJb240DcARGSqHEI0wvnItSeZ_vEhA5A6AFOopwz9puDU8lQPObjJaR7jYb5X-Qc&usqp=CAU"
+        "image": "https://cdn7.kiwilimon.com/recetaimagen/28595/28780.jpg",
+        "ingredients": "Corn tortillas, Red sauce (or green sauce), Chicken, Cheese (preferably cotija or fresco), Onion, Cilantro, Sour cream, Fried eggs (optional), Avocado (optional)",
+        "recipe": "Cut the tortillas into small strips and fry them until crispy, In a separate pan, heat the red or green sauce (depending on your preference). Add the crispy tortilla strips to the sauce and cook for a few minutes until they soften. Shred cooked chicken and add it to the chilaquiles, mixing it well. Serve with a sprinkle of cheese, onion, cilantro, and a dollop of sour cream. Optionally, top with a fried egg and avocado slices."
       },
       {
-        "name": "Tacos 🌮",
-        "imagen": "https://comedera.com/wp-content/uploads/sites/9/2017/08/tacos-al-pastor-receta.jpg?w=500&h=446&crop=1"
+        "name": "Tacos",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwn3PhD_2zUda2dtLYfwU2xkHl9cWFt4pvzg&s",
+        "ingredients": "Corn tortillas, Choice of meat (beef, pork, chicken, or vegetarian options), Onion, Cilantro, Lime, Salsa (red or green), Hot sauce (optional)",
+        "recipe": "Cook the meat of your choice (grill, sauté, or slow-cook until tender). Heat the tortillas on a comal or skillet. Once the meat is ready, slice it into small pieces or shred it (depending on the type of meat). Serve the meat in the warm tortillas. Top with freshly chopped onion, cilantro, a squeeze of lime, and your favorite salsa. Add hot sauce for an extra kick."
       },
       {
         "name": "Sopes",
-        "imagen": "https://imag.bonviveur.com/sopes-de-pollo.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Sy9MCPYYuy5-JEiT_JXj4HWOaM_dsUppCQ&s",
+        "ingredients": "Corn dough (masa), Refried beans, Lettuce, Sour cream, Queso fresco, Salsa, Onion (optional)",
+        "recipe": "Make small thick tortillas from the corn masa. Heat them on a griddle until lightly golden. Use your fingers to pinch the edges of the tortilla, creating a small border to hold the toppings. Spread a layer of refried beans over the tortilla. Top with shredded lettuce, crumbled queso fresco, sour cream, and salsa. Optionally, add sliced onion for extra flavor."
       },
       {
         "name": "Enchiladas",
-        "imagen": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipes%2F2024-05-mexican-enchiladas%2Fmexican-enchiladas-435"
+        "image": "https://www.recetasnestle.com.mx/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/70f19a86ba0ddc5de970281bd2c0c0aa.png?itok=oOkqPkhQ",
+        "ingredients": "Corn tortillas, Chicken (shredded), Red or green enchilada sauce, Onion, Cheese (Mexican blend or cheddar), Sour cream, Fresh cilantro",
+        "recipe": "Heat the tortillas in a pan to soften them. Shred the cooked chicken and place a spoonful in the center of each tortilla. Roll the tortillas around the chicken and place them in a baking dish. Pour the red or green enchilada sauce over the rolled tortillas. Sprinkle with cheese and bake at 350°F (175°C) for about 20 minutes or until the cheese is melted and bubbly. Serve with sour cream, chopped onion, and fresh cilantro on top."
       },
       {
         "name": "Pozole",
-        "imagen": "https://sabrosano.com/wp-content/uploads/2020/05/Pozole_06.jpg"
+        "image": "https://c.files.bbci.co.uk/18351/production/_126735199_69601758-e7de-4bbf-95ed-27494180e432.jpg",
+        "ingredients": "Hominy corn, Pork (or chicken), Garlic, Onion, Cabbage, Radishes, Oregano, Lime, Chili powder, Mexican oregano",
+        "recipe": "In a large pot, cook the hominy corn with pork or chicken, garlic, and onion. Simmer for several hours until the meat is tender and the flavors are well combined. Prepare toppings: thinly slice cabbage, radishes, and lime. Serve the pozole in bowls and garnish with cabbage, radishes, oregano, and a squeeze of lime. Optionally, add chili powder for extra spice."
       },
       {
         "name": "Tamales",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREGBcuLYpAeU9MKBrEWR_G5pDh3l8SoraOXQ&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRioBdEKe-j_JE2J7iI_Xxsy889JNggk8ekwg&s",
+        "ingredients": "Corn masa, Meat (pork, chicken, or vegetables), Red sauce or green sauce, Corn husks, Chicken broth, Baking powder, Salt, Lard or butter",
+        "recipe": "Soak the corn husks in warm water to soften. Prepare the masa by mixing it with chicken broth, baking powder, salt, and lard (or butter). Add your choice of meat and sauce to the masa. Spread a thin layer of masa on each corn husk, then fold it into a small packet. Steam the tamales in a large pot for about 1-1.5 hours, or until the masa is fully cooked."
       },
       {
         "name": "Mole Poblano",
-        "imagen": "https://assets.elgourmet.com/wp-content/uploads/2023/03/mole-_9IMJjkql3RCWT1eg6AHUD8PKyZLh7o-1024x683.png.webp"
+        "image": "https://www.gob.mx/cms/uploads/article/main_image/80518/mole_poblano.jpg",
+        "ingredients": "Chicken, Mole sauce (pre-made or homemade), Sesame seeds, Rice (for serving)",
+        "recipe": "Cook the chicken until tender. Heat the mole sauce in a separate pot, adjusting the consistency with water or chicken broth as needed. Once the chicken is cooked, pour the mole sauce over it and simmer for about 10-15 minutes. Serve with a side of rice and garnish with sesame seeds."
       },
       {
         "name": "Cochinita Pibil",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHPpP83Hp5DwAlMJEzZKG3YQxBL_xrdpB_g&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHw14aDnM3HsB1p40psw6T2dRxq5HEpavxcw&s",
+        "ingredients": "Pork, Annatto paste, Citrus juice (orange and lime), Banana leaves, Garlic, Salt, Pepper",
+        "recipe": "Marinate the pork with annatto paste, citrus juice, garlic, salt, and pepper for at least 4 hours (overnight is best). Wrap the marinated pork in banana leaves and bake it in a low oven (around 300°F or 150°C) for about 3-4 hours, or until the pork is tender and shreds easily. Serve with pickled red onions and warm tortillas."
       },
       {
         "name": "Tlayudas",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4l2lPON8cDa4NQxBOfoil5LjXDV_bDElFig&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvt-3HYSy91umqYmJbUQVJQKSUFykTMXJWA&s",
+        "ingredients": "Large tortillas, Oaxacan cheese, Meat (such as tasajo or cecina), Lettuce, Salsa, Avocado (optional)",
+        "recipe": "Grill the large tortilla until crispy. Top with Oaxacan cheese and cook until melted. Add the meat (grilled or sautéed) and lettuce. Serve with salsa and avocado if desired."
       },
       {
         "name": "Chiles en Nogada",
-        "imagen": "https://offloadmedia.feverup.com/monterreysecreto.com/wp-content/uploads/2022/09/13041754/chile-nogada-1-1024x683.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxzWlW5G0tpPJaheLEbBmVO15l6fN8hTPCRQ&s",
+        "ingredients": "Poblano chiles, Ground meat (beef and/or pork), Fruits (apple, plantain, peach), Walnuts, Milk, Cinnamon, Pomegranate, Cilantro",
+        "recipe": "Roast the poblano chiles and peel them. Prepare the filling by cooking ground meat and adding fruits (chopped apples, plantains, and peaches). Prepare the walnut sauce by blending walnuts with milk and cinnamon until smooth. Stuff the chiles with the meat and fruit mixture, then cover with the walnut sauce. Garnish with pomegranate seeds and cilantro."
       },
       {
         "name": "Enfrijoladas",
-        "imagen": "https://sabrosano.com/wp-content/uploads/2020/05/Enfrijoladas_06.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSPIuu4mgeYappIfY9lNyp4wEudgJiGwsbA&s",
+        "ingredients": "Corn tortillas, Black beans, Onion, Cheese, Sour cream, Salsa",
+        "recipe": "Heat the black beans until soft and blend into a smooth sauce. Dip the tortillas into the bean sauce and roll them up. Serve with chopped onions, cheese, sour cream, and a drizzle of salsa."
       },
       {
-        "name": "Quesadillas",
-        "imagen": "https://www.vvsupremo.com/wp-content/uploads/2015/11/900X570_Two-Cheese-Quesadillas.jpg"
+        "name": "Quesadillas ",
+        "image": "https://elblogdecocina.com/wp-content/uploads/quesadillas-rotated.jpg",
+        "ingredients": "Corn or flour tortillas, Cheese (queso fresco, Oaxaca, or other melting cheese), Meat (optional), Salsa, Hot sauce (optional)",
+        "recipe": "Heat a tortilla in a skillet. Add cheese (and optional meat) on top. Fold the tortilla in half and grill until crispy and golden. Serve with salsa and hot sauce."
       },
       {
         "name": "Gorditas",
-        "imagen": "https://www.cocinavital.mx/wp-content/uploads/2023/04/gorditas-de-migajas.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx4azweHY4IAO9r9IwW04KwG6kssJcyzs_MA&s",
+        "ingredients": "Corn masa, Cheese, Meat (optional), Salsa, Sour cream",
+        "recipe": "Form thick tortillas from the masa. Cook them on a griddle until golden. Cut them in half and stuff them with cheese and meat (if desired). Top with salsa and sour cream."
       },
       {
         "name": "Huaraches",
-        "imagen": "https://www.daisybrand.com/wp-content/uploads/2019/12/huaraches-770x628_2932.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNjWRrZhBTUpAT_Xq6i_ZEWoRswuWjHRqNA&s",
+        "ingredients": "Corn masa, Refried beans, Pork (or other meat), Cactus (nopal), Salsa, Queso fresco, Onion, Cilantro",
+        "recipe": "Prepare the masa by forming thick oval-shaped tortillas. Grill the tortillas on a hot comal or griddle until lightly golden. Spread refried beans on top of each tortilla. Grill the pork or other meat of your choice (e.g., grilled steak or chorizo) and place it on top of the huaraches. Add grilled cactus (nopal) slices and top with salsa, queso fresco, chopped onion, and cilantro. Serve warm."
       },
       {
         "name": "Pambazos",
-        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/793A97EF-5AB6-42BC-B6D7-BA32F58729E8/Derivates/71B61452-6C6C-4FF4-A166-FC7206C9FA05.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvJB0do5jS4TU3GC2zzNNiPo4mQTNVYJUuw&s",
+        "ingredients": "Baguette-style bread, Chorizo, Potatoes, Lettuce, Sour cream, Queso fresco, Salsa",
+        "recipe": "Cook the chorizo with diced potatoes until crispy. Slice the bread and lightly toast it. Dip the bread in a red sauce (made from guajillo chilies) to coat it. Fill the bread with the chorizo and potato mixture. Top with shredded lettuce, sour cream, queso fresco, and salsa. Serve warm."
       },
       {
         "name": "Esquites",
-        "imagen": "https://www.mylatinatable.com/wp-content/uploads/2019/07/Esquites-1.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJEyRX8-vgoHnhxXDxB0iwJyKvtXiskgWvzQ&s",
+        "ingredients": "Corn kernels, Mayonnaise, Butter, Lime, Chili powder, Queso fresco",
+        "recipe": "Boil or grill the corn kernels until tender. In a separate pan, melt butter and mix it with the corn. Stir in a generous amount of mayonnaise. Squeeze lime juice over the corn and add chili powder to taste. Serve in cups, topped with crumbled queso fresco and more chili powder if desired."
       },
       {
         "name": "Elote",
-        "imagen": "https://lh5.googleusercontent.com/proxy/35RKuDQkAYEOebSZltToqppl5BZql9cXL1r_RtXAmz5os9G7Fy-xsqBUGXxmwZolhRqMhMecqT9ZdaADuSdsmMNbqN7yGkxZVNWhyEta0FLZQOxQce3Gix_kUPVwcw"
+        "image": "https://img.freepik.com/fotos-premium/retrato-comida-mexicana-elote_1293546-652.jpg",
+        "ingredients": "Corn on the cob, Mayonnaise, Cotija cheese, Chili powder, Lime",
+        "recipe": "Grill the corn on the cob until slightly charred. While the corn is still warm, spread a layer of mayonnaise over it. Sprinkle crumbled cotija cheese over the mayonnaise. Dust with chili powder and squeeze fresh lime juice over the top. Serve immediately."
       },
       {
         "name": "Tortas",
-        "imagen": "https://cocina-casera.com/mx/wp-content/uploads/2017/08/torta-de-jamon-1.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHUXIya8R97KjuHgLvG_ojJuY_zdxrSz1-4A&s",
+        "ingredients": "Bolillo rolls, Choice of meat (beef, pork, chicken), Avocado, Lettuce, Onion, Salsa, Refried beans",
+        "recipe": "Slice the bolillo rolls and toast them lightly. Grill your meat (such as grilled beef, carnitas, or chicken) and shred or slice it. Spread a layer of refried beans on one side of the roll. Add the grilled meat and top with slices of avocado, lettuce, onion, and salsa. Serve with pickled jalapeños or extra hot sauce if desired."
       },
       {
         "name": "Burritos",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVHkErpco4_1TBy30POHaku3k38tzIrF48A&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Sf6Z2aXwaefbrpbuSMR5UaAnTl-BjkKO8w&s",
+        "ingredients": "Flour tortillas, Rice, Beans, Choice of meat (beef, chicken, or pork), Guacamole, Salsa, Sour cream",
+        "recipe": "Prepare rice and beans (refried or whole). Cook your chosen meat (grilled chicken, beef, or pork). Warm the flour tortillas on a griddle. Layer the rice, beans, grilled meat, guacamole, salsa, and sour cream in the center of the tortilla. Fold the tortilla into a burrito, rolling it tightly to close. Serve with extra salsa or hot sauce on the side."
       }
     ],
     "Typical_Meal_Time": "1:00 PM - 3:00 PM",
-    "Popular_Ingredients": ["Corn", "Beans", "Avocado"]
+    "Popular_Ingredients": "Corn, Beans, Avocado"
   },
   "Italian": {
     "Title": "Italy 🇮🇹",
@@ -89,83 +127,121 @@
     "Dishes": [
       {
         "name": "Pasta",
-        "imagen": "https://mercadoventas.es/wp-content/uploads/2024/09/receta-de-pasta.jpg"
+        "image": "https://mercadoventas.es/wp-content/uploads/2024/09/receta-de-pasta.jpg",
+        "ingredients": "Flour, eggs, salt, water.",
+        "recipe": "Mix flour, eggs, and a pinch of salt to make a dough. Roll it out and cut into desired shapes (spaghetti, fettuccine, etc). Boil in salted water until al dente and serve with sauce of choice."
       },
       {
         "name": "Pizza",
-        "imagen": "https://www.hola.com/horizon/landscape/e9e1e82cb873-pepperoni-pizza-abob-t.jpg"
+        "image": "https://www.hola.com/horizon/landscape/e9e1e82cb873-pepperoni-pizza-abob-t.jpg",
+        "ingredients": "Flour, water, yeast, salt, olive oil, tomato sauce, mozzarella, basil.",
+        "recipe": "For the dough, mix flour, water, yeast, salt, and some olive oil. Let the dough rise until it doubles in size. Roll out the dough, add tomato sauce, mozzarella, and basil. Bake at 220°C for 10-15 minutes."
       },
       {
         "name": "Ravioli",
-        "imagen": "https://gourmetdemexico.com.mx/wp-content/uploads/2024/03/ravioli-1024x678.jpg"
+        "image": "https://gourmetdemexico.com.mx/wp-content/uploads/2024/03/ravioli-1024x678.jpg",
+        "ingredients": "Flour, eggs, ricotta cheese, spinach, salt, pepper, olive oil.",
+        "recipe": "For the pasta, mix flour and eggs until smooth dough forms. Fill with a mixture of ricotta and spinach. Cook in boiling water and serve with your favorite sauce."
       },
       {
         "name": "Lasagna",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjCnEj8ga3_zb4XhCuNyXm9oke8Q2ZDSGQA&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjCnEj8ga3_zb4XhCuNyXm9oke8Q2ZDSGQA&s",
+        "ingredients": "Lasagna sheets, ground meat, tomato sauce, onion, garlic, mozzarella cheese, parmesan cheese, bechamel sauce.",
+        "recipe": "Sauté meat with onion and garlic, add tomato sauce. Layer pasta, meat, and bechamel in a dish, top with cheese. Bake at 180°C for 30-40 minutes."
       },
       {
         "name": "Spaghetti alla Carbonara",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1ACstI80COEUWrK2MiuapCEV-hHgPGJ6Xw&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1ACstI80COEUWrK2MiuapCEV-hHgPGJ6Xw&s",
+        "ingredients": "Spaghetti, eggs, pancetta, pecorino cheese, black pepper.",
+        "recipe": "Cook the pasta. Sauté the pancetta until crispy. Mix eggs with grated cheese and pepper. Toss the egg mixture with hot pasta and pancetta quickly."
       },
       {
         "name": "Risotto",
-        "imagen": "https://mandolina.co/wp-content/uploads/2024/05/risotto-1200x900.jpg"
+        "image": "https://mandolina.co/wp-content/uploads/2024/05/risotto-1200x900.jpg",
+        "ingredients": "Arborio rice, broth, white wine, onion, parmesan cheese, butter.",
+        "recipe": "Sauté onion in butter, add rice and wine, and cook on low heat, adding broth gradually. When rice is creamy, add parmesan cheese."
       },
       {
         "name": "Polenta",
-        "imagen": "https://images.cookforyourlife.org/wp-content/uploads/2017/07/easy-polenta-e1720730553758.jpg"
+        "image": "https://images.cookforyourlife.org/wp-content/uploads/2017/07/easy-polenta-e1720730553758.jpg",
+        "ingredients": "Cornmeal, water, salt, butter, parmesan cheese.",
+        "recipe": "Boil water with salt, add cornmeal slowly, and cook on low heat, stirring. Add butter and cheese at the end."
       },
       {
         "name": "Ossobuco",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpnB_OlaK1vNUoAeIlLTcM9EpX89hcIQ99Q&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpnB_OlaK1vNUoAeIlLTcM9EpX89hcIQ99Q&s",
+        "ingredients": "Veal shank, white wine, broth, carrots, celery, onion, tomato, garlic, parsley.",
+        "recipe": "Brown the meat and set aside. Sauté the vegetables, add wine, return meat, and cook on low heat with broth until tender."
       },
       {
         "name": "Arancini",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj9DWd5DMzKLGGCUgfBXKRn4lbXymr171hA&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgj9DWd5DMzKLGGCUgfBXKRn4lbXymr171hA&s",
+        "ingredients": "Rice, mozzarella cheese, tomato sauce, breadcrumbs, egg, oil for frying.",
+        "recipe": "Form rice balls with cheese in the center. Coat with egg and breadcrumbs, and fry until golden."
       },
       {
         "name": "Gnocchi",
-        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/3A94F682-EF98-4805-AF10-607A8B69FC74/Derivates/F4247BBE-40EB-4264-A845-14BA911AD0C8.jpg"
+        "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/3A94F682-EF98-4805-AF10-607A8B69FC74/Derivates/F4247BBE-40EB-4264-A845-14BA911AD0C8.jpg",
+        "ingredients": "Potatoes, flour, egg, salt.",
+        "recipe": "Boil potatoes and mash. Mix with flour and egg to form a dough, cut into small pieces and cook in boiling water until they float."
       },
       {
         "name": "Focaccia",
-        "imagen": "https://assets.elgourmet.com/wp-content/uploads/2024/04/E8A7999-1024x683.jpg.webp"
+        "image": "https://assets.elgourmet.com/wp-content/uploads/2024/04/E8A7999-1024x683.jpg.webp",
+        "ingredients": "Flour, water, yeast, salt, olive oil, rosemary.",
+        "recipe": "Mix ingredients and let dough rise. Spread on a baking tray, sprinkle with rosemary, and bake at 220°C for 20 minutes."
       },
       {
         "name": "Calzone",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEkkXqxljfguDQOhnPBVCasTbcypSR0Cpzg&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEkkXqxljfguDQOhnPBVCasTbcypSR0Cpzg&s",
+        "ingredients": "Pizza dough, tomato, mozzarella, ham, ricotta.",
+        "recipe": "Fill the dough with ingredients, fold and seal edges. Bake at 200°C until golden."
       },
       {
         "name": "Panzanella",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/08/09/panzanella.jpeg"
+        "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/08/09/panzanella.jpeg",
+        "ingredients": "Bread, tomato, cucumber, onion, basil, olive oil, vinegar.",
+        "recipe": "Soak the bread in water, squeeze and mix with tomato, cucumber, onion, and basil. Dress with oil and vinegar."
       },
       {
         "name": "Bruschetta",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBt86s9DZYDEo1joHjYxfDG-K4KgGQAOZE1A&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBt86s9DZYDEo1joHjYxfDG-K4KgGQAOZE1A&s",
+        "ingredients": "Bread, tomato, garlic, basil, olive oil.",
+        "recipe": "Toast bread, rub with garlic and top with diced tomato, basil, and a drizzle of olive oil."
       },
       {
         "name": "Caprese Salad",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/caprese-salad-recipe-2-664ceea357d6f.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*"
+        "image": "https://hips.hearstapps.com/hmg-prod/images/caprese-salad-recipe-2-664ceea357d6f.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*",
+        "ingredients": "Tomato, mozzarella, basil, olive oil, salt.",
+        "recipe": "Alternate slices of tomato and mozzarella, add basil, and drizzle with oil and salt."
       },
       {
         "name": "Tiramisu",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6un6tBI7vJqkMxYJk36PY5zPlpqdbhU3Pg&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6un6tBI7vJqkMxYJk36PY5zPlpqdbhU3Pg&s",
+        "ingredients": "Coffee, ladyfingers, mascarpone, eggs, sugar, cocoa powder.",
+        "recipe": "Dip ladyfingers in coffee, layer with mascarpone, egg, and sugar mixture. Top with cocoa powder and refrigerate."
       },
       {
         "name": "Panna Cotta",
-        "imagen": "https://i.blogs.es/bb86a3/panna_cotta/840_560.jpg"
+        "image": "https://i.blogs.es/bb86a3/panna_cotta/840_560.jpg",
+        "ingredients": "Cream, sugar, vanilla, gelatin.",
+        "recipe": "Heat cream with sugar and vanilla. Dissolve gelatin and mix well. Refrigerate until set."
       },
       {
         "name": "Cannoli",
-        "imagen": "https://es.giallozafferano.com/images/2-256/Cannoli-siciliani_1200x800.jpg"
+        "image": "https://es.giallozafferano.com/images/2-256/Cannoli-siciliani_1200x800.jpg",
+        "ingredients": "Flour, sugar, ricotta, cinnamon, chocolate, candied fruit.",
+        "recipe": "Form tubes from dough and fry. Fill with sweetened ricotta, cinnamon, chocolate chunks, and candied fruit."
       },
       {
         "name": "Gelato",
-        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/7C3748CF-C170-4EB7-9688-5A1E5A2523C2/Derivates/06966FFF-00F3-4B3E-96A2-6A9B2316F272.jpg"
+        "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/7C3748CF-C170-4EB7-9688-5A1E5A2523C2/Derivates/06966FFF-00F3-4B3E-96A2-6A9B2316F272.jpg",
+        "ingredients": "Milk, cream, sugar, egg yolk, flavoring (chocolate, vanilla, etc.",
+        "elaboration": "Mix milk, cream, and sugar; heat. Add egg yolk and flavoring, and freeze while stirring constantly."
       }
     ],
     "Typical_Meal_Time": "1:00 PM - 2:00 PM",
-    "Popular_Ingredients": ["Wheat", "Tomatoes", "Basil"]
+    "Popular_Ingredients": "Wheat, Tomatoes, Basil"
   },
   "Argentian": {
     "Title": "Argentina 🇦🇷",
@@ -173,63 +249,91 @@
     "Dishes": [
       {
         "name": "Asado",
-        "imagen": "https://media.vogue.mx/photos/653192924eca207f85d0c0f2/master/w_1600%2Cc_limit/asado-argentino-2.jpg"
+        "image": "https://media.vogue.mx/photos/653192924eca207f85d0c0f2/master/w_1600%2Cc_limit/asado-argentino-2.jpg",
+        "ingredients": "1 beef rib rack, 1 flank steak, 1 skirt steak, 4 short ribs, 2 sausages, 2 blood sausages, Coarse salt to taste,500 grams of sweetbreads,500 grams of chitterlings, 300 grams of kidneys, Chimichurri (olive oil, wine vinegar, garlic, parsley, oregano, chili flakes, red bell pepper), Salsa criolla (1 tomato, 1 onion, 1 red bell pepper, 1 green bell pepper, oil, vinegar), Bread for choripanes",
+        "recipe": "Light the fire with charcoal or wood (preferably quebracho or espinillo) and let it create a good bed of coals, While the grill heats up, season the meat with coarse salt on both sides and let it rest for a few minutes, When the coals are ready, place the meat on the grill, bone side down if applicable, and cook over low heat, Add the sweetbreads, chitterlings, and kidneys, turning them for even cooking, Let the meat cook for 1-2 hours, depending on the cut, until juicy and golden, 6. Meanwhile, prepare the chimichurri and salsa criolla by mixing all ingredients, Serve the asado with the side dishes and enjoy with bread for choripanes."
       },
       {
         "name": "Empanadas",
-        "imagen": "https://laroussecocina.mx/wp-content/uploads/2020/07/empanadas-argentinas.jpg.webp"
+        "image": "https://laroussecocina.mx/wp-content/uploads/2020/07/empanadas-argentinas.jpg.webp",
+        "ingredients": "500 grams of ground beef (preferably shoulder or top round), 2 large onions, 1 red bell pepper, 2 hard-boiled eggs, 100 grams of green olives (pitted), 1 tablespoon of sweet paprika, 1 tablespoon of cumin, 1 teaspoon of chili flakes, Salt to taste, Pepper to taste, 1 package of empanada dough for baking (approximately 12 discs), 2 tablespoons of oil (preferably beef fat or neutral oil)",
+        "recipe": "In a large skillet, heat the oil over medium heat and add the chopped onions and diced red bell pepper. Sauté until soft, Add the ground beef and cook until browned and fully cooked, Add the paprika, cumin, chili flakes, salt, and pepper to taste. Mix well and cook for a few minutes to blend flavors, Remove from heat and let the mixture cool, Add the chopped hard-boiled eggs and sliced olives to the filling, and mix gently, Preheat the oven to 200°C (392°F), Fill each empanada disc with a spoonful of meat mixture. Moisten the edges with water, fold over, and seal with a fork or by crimping, Place on a baking tray and bake for 20-25 minutes until golden brown, Serve hot."
       },
       {
         "name": "Milanesa",
-        "imagen": "https://www.carniceriademadrid.es/wp-content/uploads/2022/11/receta-milanesa-ternera.jpg"
+        "image": "https://www.carniceriademadrid.es/wp-content/uploads/2022/11/receta-milanesa-ternera.jpg",
+        "ingredients": "500 gr White corn kernels, 200 gr Beans (or alubias), 500 gr Flank or rib steak (churrasco in Spain), 500 gr Pig's feet, 200 gr Smoked bacon, 2 Creole sausages, 1 Small pumpkin, 3 Garlic cloves, 2 Bay leaves, 1 Medium onion, 1 tsp Ground chili (replace with 2 crushed dried chili peppers), 4 tbsp Lard (pork fat), 2 tbsp Sweet paprika, 1/2 tsp Ground cumin, Salt to taste",
+        "recipe": "Season beef or chicken cutlets with salt and pepper, Dip each cutlet in beaten egg, then coat in breadcrumbs, Heat oil in a skillet and fry each cutlet until golden and crispy on both sides, Drain on paper towels and serve with lemon wedges."
       },
       {
         "name": "Locro",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Locro_argentino.JPG/1200px-Locro_argentino.JPG"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Locro_argentino.JPG/1200px-Locro_argentino.JPG",
+        "ingredients": "250g of white beans, 250g of cracked white corn, 1 red chorizo sausage, 1 traditional chorizo sausage, Pork skin, Pork ribs, Flank steak, 200g of bacon, 3 onions, 2 green onions, 1 leek, 1/2 pumpkin, 1/2 red bell pepper (for the sauce)",
+        "recipe": "Soak corn and beans overnight, In a large pot, cook diced beef with chorizo until browned, Add corn, beans, and water, then simmer on low heat for several hours until everything is tender, Season with salt, pepper, and paprika."
       },
       {
         "name": "Humitas",
-        "imagen": "https://www.gourmet.cl/wp-content/uploads/2012/01/Humitas-e1325692985982.jpg"
+        "image": "https://www.gourmet.cl/wp-content/uploads/2012/01/Humitas-e1325692985982.jpg",
+        "ingredients": "12 ears of corn, 2 green onions, 1 red bell pepper, 1 onion, 1 tomato, 1 small pumpkin, Fresh herbs to taste, 400g of fresh cheese, 1 tablespoon of sugar, Salt, Pepper, Nutmeg, ½ cup of olive oil",
+        "recipe": "Mix grated corn with chopped onions, cheese, salt, and pepper, Spoon mixture into corn husks and fold them closed, Steam for about 30-40 minutes, until filling is set."
       },
       {
         "name": "Choripan",
-        "imagen": "https://www.laylita.com/recetas/wp-content/uploads/Receta-del-choripan.jpg"
+        "image": "https://www.laylita.com/recetas/wp-content/uploads/Receta-del-choripan.jpg",
+        "ingredients": "Sausage, Bread, Chimichurri",
+        "recipe": "Grill the sausage until fully cooked, Place sausage in crusty bread and add chimichurri sauce on top, Serve hot."
       },
       {
         "name": "Matambre",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYKN29KknMh5v7sYEvm3o8XWVq3LokwtU5w&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYKN29KknMh5v7sYEvm3o8XWVq3LokwtU5w&s",
+        "ingredients": "Flank steak, Vegetables, Egg",
+        "recipe": "Cook the flank steak with vegetables and egg, Roll the steak tightly and tie with string, Boil or bake until tender, then cool, slice, and serve cold."
       },
       {
         "name": "Provoleta",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkbR2VmX_ePDwXDrTjWdyhL_tmf5WVHWNFg&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkbR2VmX_ePDwXDrTjWdyhL_tmf5WVHWNFg&s",
+        "ingredients": "2 thick wheels (about 8-9 ounces each) of provolone cheese with rind, 4 tablespoons of extra virgin olive oil, or as needed, Dried oregano, to taste, Sea salt or kosher salt, to taste, Freshly ground black pepper, to taste",
+        "recipe": "Heat a grill or skillet over medium-high heat, Place the provolone cheese wheels on the grill or skillet, Cook until the cheese melts and becomes lightly golden around the edges, Drizzle with olive oil and sprinkle with oregano, salt, and pepper to taste, Serve immediately and enjoy."
       },
       {
         "name": "Alfajores",
-        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/bb3ed3dc-075e-4453-a1e1-e20aef86d084/Derivates/e3fa5ec8-b722-4708-96c3-151d21d20572.jpg"
+        "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/bb3ed3dc-075e-4453-a1e1-e20aef86d084/Derivates/e3fa5ec8-b722-4708-96c3-151d21d20572.jpg",
+        "ingredients": "2 cookies (for filling), Dulce de leche, Shredded coconut or melted chocolate (for coating)",
+        "recipe": "Spread dulce de leche between two cookies to form a sandwich, Roll the edges of the sandwich in shredded coconut or dip in melted chocolate, Let it chill until the coating sets, then serve."
       },
       {
         "name": "Dulce de Leche",
-        "imagen": "https://cdn0.recetasgratis.net/es/posts/4/0/3/dulce_de_leche_argentino_8304_600_square.jpg"
+        "image": "https://cdn0.recetasgratis.net/es/posts/4/0/3/dulce_de_leche_argentino_8304_600_square.jpg",
+        "ingredients": "1 liter of whole milk, 2 cups of sugar, 1/4 teaspoon of baking soda (optional, for smooth texture)",
+        "recipe": "In a large pot, combine the milk and sugar, Cook over medium-low heat, stirring constantly to prevent burning, Continue cooking for 1.5-2 hours, until the mixture thickens and turns a caramel color, If desired, add baking soda towards the end of cooking to achieve a smoother consistency, Let it cool before using as a filling or topping."
       },
       {
         "name": "Pastelitos",
-        "imagen": "https://i.ytimg.com/vi/j8ewV58q77I/maxresdefault.jpg"
+        "image": "https://i.ytimg.com/vi/j8ewV58q77I/maxresdefault.jpg",
+        "ingredients": "500 grams of all-purpose flour, 200 grams of butter or vegetable shortening, 250 milliliters of water, 1 pinch of salt, 1 teaspoon of lemon juice, 50 grams of cornstarch, 300 grams of quince paste, 1 cup of oil, ½ cup of sugar (100 grams), ½ cup of water (120 milliliters), Colored sprinkles for decoration",
+        "recipe": "In a large bowl, mix the flour, butter (or shortening), salt, and lemon juice. Add water gradually and knead until a smooth dough forms, In a separate bowl, combine the cornstarch with a little water to create a paste, then add to the dough mixture, Roll out the dough on a lightly floured surface and cut into small squares, Place a piece of quince paste in the center of each square, Fold the dough over the paste and seal the edges tightly, Heat the oil in a deep fryer or large pot to 350°F (175°C), Fry the pastelitos until golden brown, then drain on paper towels, In a small saucepan, combine sugar and water. Heat until sugar dissolves and becomes a syrup, Brush the warm pastelitos with the syrup and sprinkle with colored sprinkles, Serve warm and enjoy!"
       },
       {
         "name": "Facturas",
-        "imagen": "https://s7e6w6d2.rocketcdn.me/wp-content/uploads/2013/07/factuas.jpg"
+        "image": "https://s7e6w6d2.rocketcdn.me/wp-content/uploads/2013/07/factuas.jpg",
+        "ingredients": "500 g pastry flour (El Amasadero), 2 whole eggs, 10 g dry baker's yeast or 25 g fresh yeast, 80 g sugar, 1 pinch of salt, 1 teaspoon vanilla extract, 60 g butter at room temperature, 150 g warm milk",
+        "recipe": "In a bowl, combine the warm milk and yeast. Let it sit for 5 minutes until the yeast is activated, In a separate large bowl, mix the flour, sugar, salt, and vanilla extract, Add the eggs and activated yeast mixture to the dry ingredients. Mix to form a dough, Knead the dough for about 10 minutes until it becomes smooth and elastic, Add the butter and continue kneading until fully incorporated, Cover the dough with a cloth and let it rise for about 1-2 hours, or until doubled in size, Preheat the oven to 180°C (350°F), Once the dough has risen, punch it down and divide it into small portions. Shape into your desired forms (like small buns or twists), Place the shaped dough on a baking sheet lined with parchment paper, Bake for about 15-20 minutes, or until golden brown, Let cool slightly, then serve. Optionally, you can dust with powdered sugar or drizzle with icing."
       },
       {
         "name": "Chimichurri",
-        "imagen": "https://deliciaskitchen.b-cdn.net/wp-content/uploads/2023/11/salsa-chimichurri-casera.jpg"
+        "image": "https://deliciaskitchen.b-cdn.net/wp-content/uploads/2023/11/salsa-chimichurri-casera.jpg",
+        "ingredients": "1/2 cup fresh parsley (chopped), 3 garlic cloves (minced), 1 tsp dried oregano, 1/2 tsp red pepper flakes, 1/4 cup red wine vinegar, 1/2 cup olive oil, salt and pepper to taste.",
+        "recipe": "In a bowl, mix parsley, garlic, oregano, red pepper flakes, and vinegar. Gradually add olive oil while stirring. Season with salt and pepper. Let sit for at least 30 minutes before serving to enhance flavors."
       },
       {
         "name": "Vitel Toné",
-        "imagen": "https://cdn.eldestapeweb.com/eldestape/122021/1639667368385/vitel_tone.jpg"
+        "image": "https://cdn.eldestapeweb.com/eldestape/122021/1639667368385/vitel_tone.jpg",
+        "ingredients": "1 kg veal (eye of round or silverside), 2 carrots, 1 onion, 1 celery stalk, 1 bay leaf, salt, pepper. Sauce: 1 cup mayonnaise, 1/2 cup tuna in oil, 3 anchovy fillets, 1 tbsp capers, juice of 1 lemon, 1/2 cup cream.",
+        "recipe": "Boil the veal with carrots, onion, celery, bay leaf, salt, and pepper until tender. Let cool and slice thinly. Blend mayonnaise, tuna, anchovies, capers, and lemon juice for the sauce. Add cream for desired consistency. Layer veal slices on a serving dish, covering each layer with sauce. Garnish with capers and serve cold."
       }
     ],
     "Typical_Meal_Time": "9:00 PM - 11:00 PM",
-    "Popular_Ingredients": ["Beef", "Wheat", "Garlic"]
+    "Popular_Ingredients": "Beef, Wheat, Garlic"
   },
   "UnitedStatian": {
     "Title": "United States 🇺🇸",
@@ -237,79 +341,115 @@
     "Dishes": [
       {
         "name": "Hamburger",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddjpE64jVcMqw9x270i2vfbklSHIt-LzP7w&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddjpE64jVcMqw9x270i2vfbklSHIt-LzP7w&s",
+        "Ingredients": "Ground beef, Salt, Pepper, Hamburger bun, Lettuce, Tomato, Onion, Cheese",
+        "recipe": "Mix ground beef with salt and pepper to taste, Shape the mixture into a burger patty, Cook the burger in a skillet or on a grill over medium-high heat until the desired level of doneness, Serve the burger on a hamburger bun with your favorite toppings (lettuce, tomato, onion, cheese, etc.)."
       },
       {
         "name": "Fries",
-        "imagen": "https://cdn.britannica.com/34/206334-050-7637EB66/French-fries.jpg"
+        "image": "https://cdn.britannica.com/34/206334-050-7637EB66/French-fries.jpg",
+        "ingredients": "Potatoes, Oil, Salt",
+        "recipe": "Peel and cut the potatoes into evenly sized strips, Heat oil in a skillet or deep fryer to 180°C, Fry the potatoes in the hot oil until golden and crispy, Drain the fries on paper towels and season with salt to taste."
       },
       {
         "name": "Pizza",
-        "imagen": "https://www.novachef.es/media/images/pizza-pepperoni.jpg"
+        "image": "https://www.novachef.es/media/images/pizza-pepperoni.jpg",
+        "ingredients": "Pizza dough, Tomato sauce, Mozzarella cheese, Pepperoni, Ham, Mushrooms",
+        "recipe": "Preheat the oven to 220°C, Roll out the pizza dough on a floured flat surface, Top the dough with tomato sauce, mozzarella cheese, and other toppings like pepperoni, ham, or mushrooms, Place the pizza in the oven and bake for 12-15 minutes or until the cheese is melted and the crust is golden."
       },
       {
         "name": "Hot Dog",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaKqDVCWtGQzA2-d1WvRmTfPi0krczx2pwzQ&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaKqDVCWtGQzA2-d1WvRmTfPi0krczx2pwzQ&s",
+        "ingredients": "Sausages, Hot dog bun, Mustard, Ketchup, Onions",
+        "recipe": "Cook the sausages in hot water or on a grill, Place the cooked sausages inside a hot dog bun, Add mustard, ketchup, onions, or any other sauce or condiment of your choice."
       },
       {
         "name": "Cheeseburger",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cheeseburger.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cheeseburger.jpg",
+        "ingredients": "Ground beef, Salt, Pepper, Cheddar cheese, Hamburger bun, Lettuce, Tomato, Onion, Condiments",
+        "recipe": "Shape ground beef into a patty and season with salt and pepper, Cook the burger in a skillet or on a grill over medium-high heat, Add a slice of cheddar cheese on top of the meat when it is almost done, allowing it to melt0, Serve the burger on a hamburger bun with lettuce, tomato, onion, and your choice of condiments."
       },
       {
         "name": "Mac and Cheese",
-        "imagen": "https://www.allrecipes.com/thmb/e8uotDI18ieXNBY0KpmtGKbxMRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238691-Simple-Macaroni-And-Cheese-mfs_008-4x3-6ed91ba87a1344558aacc0f9ef0f4b41.jpg"
+        "image": "https://www.allrecipes.com/thmb/e8uotDI18ieXNBY0KpmtGKbxMRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238691-Simple-Macaroni-And-Cheese-mfs_008-4x3-6ed91ba87a1344558aacc0f9ef0f4b41.jpg",
+        "ingredients": "Pasta, Butter, Flour, Milk, Cheddar cheese, Salt, Pepper",
+        "recipe": "Cook the pasta according to the package instructions, Meanwhile, melt butter in a large skillet and add flour to make a roux, Gradually add milk to the skillet, whisking constantly until the sauce thickens, Stir in shredded cheddar cheese and mix until melted, Add the cooked pasta and mix well until it is fully coated with the cheese sauce."
       },
       {
         "name": "Fried Chicken",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fried-Chicken-Set.jpg/800px-Fried-Chicken-Set.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fried-Chicken-Set.jpg/800px-Fried-Chicken-Set.jpg",
+        "ingredients": "Chicken pieces, Salt, Pepper, Spices, Flour, Oil",
+        "recipe": "Season chicken pieces with salt, pepper, and other spices to taste, Dredge the chicken in seasoned flour, ensuring it is well-coated, Heat oil in a deep skillet to 180°C, Fry the chicken in the hot oil until golden and crispy on the outside and cooked through on the inside, Drain the chicken on paper towels before serving."
       },
       {
         "name": "Pancakes",
-        "imagen": "https://www.allrecipes.com/thmb/6x0Lw9L4MEU8INHnK4tXGRV9XWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20334-banana-pancakes-i-DDMFS-4x3-9f291f03044247d48c9ec26917952402.jpg"
+        "image": "https://www.allrecipes.com/thmb/6x0Lw9L4MEU8INHnK4tXGRV9XWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20334-banana-pancakes-i-DDMFS-4x3-9f291f03044247d48c9ec26917952402.jpg",
+        "ingredients": "Flour, Baking powder, Sugar, Milk, Egg, Butter, Maple syrup, Fruit, Whipped cream",
+        "recipe": "In a bowl, mix flour, baking powder, sugar, milk, egg, and melted butter until smooth, Heat a non-stick skillet over medium heat and grease it with a little butter or oil, Pour small amounts of batter onto the hot skillet, Cook each pancake until bubbles appear on the surface, then flip and cook the other side until golden, Serve with maple syrup, fruit, or whipped cream."
       },
       {
         "name": "Waffles",
-        "imagen": "https://www.elespectador.com/resizer/gQOpefuhxVG5V8RYKBA9jZ0Rajc=/arc-anglerfish-arc2-prod-elespectador/public/2HSDHX52VNCN7EEQD6OUZNJDCE.jpg"
+        "image": "https://www.elespectador.com/resizer/gQOpefuhxVG5V8RYKBA9jZ0Rajc=/arc-anglerfish-arc2-prod-elespectador/public/2HSDHX52VNCN7EEQD6OUZNJDCE.jpg",
+        "ingredients": "Flour, Baking powder, Sugar, Egg, Milk, Butter, Maple syrup, Fruit, Whipped cream",
+        "recipe": "Mix flour, baking powder, sugar, egg, milk, and melted butter in a bowl until smooth, Preheat a waffle iron and grease it with a little oil or butter, Pour the batter into the waffle iron and cook according to the device's instructions, until the waffles are golden and crispy, Serve with fruit, maple syrup, or whipped cream."
       },
       {
         "name": "Donuts",
-        "imagen": "https://images.squarespace-cdn.com/content/v1/5a563c1cd55b41fd7759755f/1671904710126-A9EX9GGZOA1B8PL1EP6B/Dozen+Classics.JPG?format=1000w"
+        "image": "https://images.squarespace-cdn.com/content/v1/5a563c1cd55b41fd7759755f/1671904710126-A9EX9GGZOA1B8PL1EP6B/Dozen+Classics.JPG?format=1000w",
+        "ingredients": "Flour, Sugar, Yeast, Warm milk, Egg, Butter, Glaze, Powdered sugar",
+        "recipe": "Mix flour, sugar, yeast, warm milk, egg, and melted butter in a bowl, Knead until smooth and let the dough rise for 1 hour, Roll out the dough and cut it with a donut cutter, Fry the donuts in hot oil until golden on the outside."
       },
       {
         "name": "Apple Pie",
-        "imagen": "https://www.southernliving.com/thmb/bbDY1d_ySIrCFcq8WNBkR-3x6pU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2589601_Mailb_Mailbox_Apple_Pie_003-da802ff7a8984b2fa9aa0535997ab246.jpg"
+        "image": "https://www.southernliving.com/thmb/bbDY1d_ySIrCFcq8WNBkR-3x6pU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2589601_Mailb_Mailbox_Apple_Pie_003-da802ff7a8984b2fa9aa0535997ab246.jpg",
+        "ingredients": "1 double-crust pie dough, 6 cups sliced apples, 3/4 cup sugar, 1 tsp cinnamon, 1/4 tsp nutmeg, 1 tbsp lemon juice, 2 tbsp butter.",
+        "recipe": "Preheat oven to 425°F (220°C). Mix apples, sugar, cinnamon, nutmeg, and lemon juice. Roll out dough; place one layer in pie dish, fill with apple mixture, dot with butter, and cover with the second dough layer. Bake 45-50 minutes or until golden."
       },
       {
         "name": "Chocolate Chip Cookies",
-        "imagen": "https://static01.nyt.com/images/2022/02/12/dining/JT-Chocolate-Chip-Cookies/JT-Chocolate-Chip-Cookies-threeByTwoMediumAt2X.jpg"
+        "image": "https://static01.nyt.com/images/2022/02/12/dining/JT-Chocolate-Chip-Cookies/JT-Chocolate-Chip-Cookies-threeByTwoMediumAt2X.jpg",
+        "ingredients": "2 1/4 cups flour, 1 tsp baking soda, 1 tsp salt, 1 cup butter, 3/4 cup sugar, 3/4 cup brown sugar, 1 tsp vanilla extract, 2 eggs, 2 cups chocolate chips.",
+        "recipe": "Preheat oven to 375°F (190°C). Mix flour, baking soda, and salt. In another bowl, beat butter, sugars, and vanilla. Add eggs, then mix in dry ingredients. Stir in chocolate chips. Drop spoonfuls onto baking sheet. Bake for 9-11 minutes."
       },
       {
         "name": "Brownies",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3mIud00KxquRBJTaIYRO05Bv19OmYQTTjg&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3mIud00KxquRBJTaIYRO05Bv19OmYQTTjg&s",
+        "ingredients": "1/2 cup butter, 1 cup sugar, 2 eggs, 1 tsp vanilla extract, 1/3 cup cocoa powder, 1/2 cup flour, 1/4 tsp salt, 1/4 tsp baking powder.",
+        "recipe": "Preheat oven to 350°F (175°C). Melt butter; stir in sugar, eggs, and vanilla. Mix in cocoa, flour, salt, and baking powder. Spread in pan and bake for 20-25 minutes."
       },
       {
         "name": "Ice Cream",
-        "imagen": "https://www.allrecipes.com/thmb/qU9RzlqCysXOoaH-urHNCCQLXLs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-56803-very-chocolate-ice-cream-Beauties-4x3-0343db03e550403aaab1a0d52cbef744.jpg"
+        "image": "https://www.allrecipes.com/thmb/qU9RzlqCysXOoaH-urHNCCQLXLs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-56803-very-chocolate-ice-cream-Beauties-4x3-0343db03e550403aaab1a0d52cbef744.jpg",
+        "ingredients": "2 cups heavy cream, 1 cup whole milk, 3/4 cup sugar, 1 tbsp vanilla extract.",
+        "recipe": "Mix cream, milk, and sugar until sugar dissolves. Add vanilla extract. Pour into an ice cream maker and churn according to the manufacturer's instructions."
       },
       {
         "name": "Clam Chowder",
-        "imagen": "https://www.allrecipes.com/thmb/ElqwjwX_F7u9wPDB6dfHYxYmVCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13078-New-England-Clam-Chowder-DDMFS-3X4-0560-e9b8d6db885546538990735f2d4d2199.jpg"
+        "image": "https://www.allrecipes.com/thmb/ElqwjwX_F7u9wPDB6dfHYxYmVCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13078-New-England-Clam-Chowder-DDMFS-3X4-0560-e9b8d6db885546538990735f2d4d2199.jpg",
+        "ingredients": "3 slices bacon, 1 onion, 2 cups potatoes, 1 cup celery, 1 cup clams, 3 cups milk, salt and pepper to taste.",
+        "recipe": "Cook bacon until crisp; remove and crumble. Sauté onion and celery in bacon fat. Add potatoes and clams, then milk. Simmer until potatoes are tender. Season with salt and pepper; garnish with bacon."
       },
       {
         "name": "Lobster Roll",
-        "imagen": "https://www.allrecipes.com/thmb/DgBXXAvMRVT4084of-AP-hbNil4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/98979-lobster-rolls-ddmfs-beauty-4x3-BG-3540-9f9cc53d218344f6ab3cbee7bbc958c7.jpg"
+        "image": "https://www.allrecipes.com/thmb/DgBXXAvMRVT4084of-AP-hbNil4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/98979-lobster-rolls-ddmfs-beauty-4x3-BG-3540-9f9cc53d218344f6ab3cbee7bbc958c7.jpg",
+        "ingredients": "1 lb cooked lobster meat, 1/4 cup mayonnaise, 1 tbsp lemon juice, salt, pepper, 4 hot dog buns, 2 tbsp butter.",
+        "recipe": "Mix lobster meat, mayonnaise, lemon juice, salt, and pepper. Butter buns and toast until golden. Fill buns with lobster mixture."
       },
       {
         "name": "BBQ Ribs",
-        "imagen": "https://www.allrecipes.com/thmb/IWVelWahUb2gQxixWJC2N-HXp0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22469-Barbecue-Ribs-ddmfs-2x1-210-e799db142f594b00bb317bb357d0971c.jpg"
+        "image": "https://www.allrecipes.com/thmb/IWVelWahUb2gQxixWJC2N-HXp0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22469-Barbecue-Ribs-ddmfs-2x1-210-e799db142f594b00bb317bb357d0971c.jpg",
+        "ingredients": "2 racks of ribs, 1 cup BBQ sauce, salt, pepper, garlic powder.",
+        "recipe": "Season ribs with salt, pepper, and garlic powder. Bake at 300°F (150°C) for 2 hours, covered. Brush with BBQ sauce and grill for 10-15 minutes."
       },
       {
         "name": "Steak",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjfGSawcBfgKfnhrTvtPkAUV5qUhcucuIGsw&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjfGSawcBfgKfnhrTvtPkAUV5qUhcucuIGsw&s",
+        "ingredients": "2 steaks, salt, pepper, 1 tbsp olive oil, 1 tbsp butter.",
+        "recipe": "Season steaks with salt and pepper. Heat olive oil in a pan and cook steaks 3-4 minutes per side for medium-rare. Add butter in the final minute for flavor."
       }
     ],
     "Typical_Meal_Time": "6:00 PM - 8:00 PM",
-    "Popular_Ingredients": ["Beef", "Chicken", "Potatoes"]
+    "Popular_Ingredients": "Beef, Chicken, Potatoes"
   },
   "Japanesse": {
     "Title": "Japan 🇯🇵",
@@ -317,79 +457,115 @@
     "Dishes": [
       {
         "name": "Sushi",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgj3iNHytlOzZllEtcDzqBoIwnSGSMmSQmLA&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgj3iNHytlOzZllEtcDzqBoIwnSGSMmSQmLA&s",
+        "ingredients": "Sushi rice, nori (seaweed sheets), raw fish (e.g., salmon, tuna), cucumber, avocado, soy sauce.",
+        "recipe": "Cook sushi rice and season with rice vinegar. Place rice on nori, add fillings (fish, cucumber, avocado), and roll tightly. Slice into pieces and serve with soy sauce."
       },
       {
         "name": "Ramen",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_o86UH4J0lwaThBv-fLgga7HE10r1NlkJ5g&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_o86UH4J0lwaThBv-fLgga7HE10r1NlkJ5g&s",
+        "ingredients": "Ramen noodles, chicken or pork broth, soy sauce, miso paste, boiled egg, sliced pork, green onions.",
+        "recipe": "Heat broth with soy sauce or miso paste. Cook noodles separately. Pour broth over noodles, add sliced pork, boiled egg, and garnish with green onions."
       },
       {
         "name": "Tempura",
-        "imagen": "https://www.cocinadelirante.com/800x600/filters:format(webp):quality(75)/sites/default/files/images/2024/09/tempura-verduras.jpg"
+        "image": "https://www.cocinadelirante.com/800x600/filters:format(webp):quality(75)/sites/default/files/images/2024/09/tempura-verduras.jpg",
+        "ingredients": "Shrimp or vegetables, tempura batter mix, oil for frying.",
+        "recipe": "Heat oil. Dip shrimp or vegetables in tempura batter and fry until golden. Drain on paper towels and serve with dipping sauce."
       },
       {
         "name": "Udon",
-        "imagen": "https://www.hola.com/horizon/landscape/b1dd42e38c3d-fideos-udon-en-caldo-dashi-con-huevo-shiitakes-y-rabano-t.jpg"
+        "image": "https://www.hola.com/horizon/landscape/b1dd42e38c3d-fideos-udon-en-caldo-dashi-con-huevo-shiitakes-y-rabano-t.jpg",
+        "ingredients": "Udon noodles, dashi broth, soy sauce, green onions, mushrooms, egg.",
+        "recipe": "Cook udon noodles. Heat dashi broth with soy sauce and add mushrooms. Pour broth over noodles, add egg and green onions."
       },
       {
         "name": "Soba",
-        "imagen": "https://www.onesupermarket.es/cdn/shop/articles/fideos-soba-onesupermarket.jpg?v=1651250218&width=2048"
+        "image": "https://www.onesupermarket.es/cdn/shop/articles/fideos-soba-onesupermarket.jpg?v=1651250218&width=2048",
+        "ingredients": "Soba noodles, dashi or soy sauce-based broth, green onions, nori.",
+        "recipe": "Cook soba noodles and rinse. Serve in cold dashi broth, garnish with green onions and nori."
       },
       {
         "name": "Miso Soup",
-        "imagen": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2024-01-miso-soup%2Fmiso-soup-030"
+        "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2024-01-miso-soup%2Fmiso-soup-030",
+        "ingredients": "Miso paste, dashi broth, tofu, green onions, seaweed.",
+        "recipe": "Heat dashi broth, dissolve miso paste, add tofu and seaweed. Garnish with green onions and serve warm."
       },
       {
         "name": "Onigiri",
-        "imagen": "https://www.onigiri.casa/static/8fd936b83d13a9eed5b0cbe6346beccd/68421/onigiri-salmon.jpg"
+        "image": "https://www.onigiri.casa/static/8fd936b83d13a9eed5b0cbe6346beccd/68421/onigiri-salmon.jpg",
+        "ingredients": "Cooked rice, fillings (e.g., salmon, pickled plum), nori (seaweed sheets).",
+        "recipe": "Shape rice into triangles, add filling in the center, wrap with nori. Serve as a snack or meal."
       },
       {
         "name": "Yakitori",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPG7cLmaa10d1YZ1MXjFs_ON_uIEp8eLVm4w&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPG7cLmaa10d1YZ1MXjFs_ON_uIEp8eLVm4w&s",
+        "ingredients": "Chicken pieces, soy sauce, mirin, sugar, bamboo skewers.",
+        "recipe": "Skewer chicken pieces, grill while brushing with a sauce made from soy sauce, mirin, and sugar."
       },
       {
         "name": "Gyoza",
-        "imagen": "https://www.recetas-japonesas.com/base/stock/Recipe/gyoza-de-carne/gyoza-de-carne_web.jpg.webp"
+        "image": "https://www.recetas-japonesas.com/base/stock/Recipe/gyoza-de-carne/gyoza-de-carne_web.jpg.webp",
+        "ingredients": "Gyoza wrappers, ground pork, cabbage, garlic, ginger, soy sauce.",
+        "recipe": "Mix filling ingredients and wrap in gyoza wrappers. Pan-fry until golden, then steam until cooked."
       },
       {
         "name": "Tonkatsu",
-        "imagen": "https://static01.nyt.com/images/2024/02/28/multimedia/ND-tonkatsu-hbtg/ND-tonkatsu-hbtg-googleFourByThree.jpg"
+        "image": "https://static01.nyt.com/images/2024/02/28/multimedia/ND-tonkatsu-hbtg/ND-tonkatsu-hbtg-googleFourByThree.jpg",
+        "ingredients": "Pork cutlets, flour, egg, panko breadcrumbs, oil for frying.",
+        "recipe": "Coat pork cutlets in flour, egg, and panko. Fry until golden and crispy. Serve with tonkatsu sauce."
       },
       {
         "name": "Teriyaki",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5v7mGU513-ONSh-_dnOgnuPp1fBYP9KubUg&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5v7mGU513-ONSh-_dnOgnuPp1fBYP9KubUg&s",
+        "ingredients": "Chicken or beef, soy sauce, mirin, sugar, ginger, garlic.",
+        "recipe": "Cook meat in a mixture of soy sauce, mirin, sugar, ginger, and garlic until glazed and flavorful."
       },
       {
         "name": "Sashimi",
-        "imagen": "https://monstersushi.es/blog/wp-content/uploads/2022/06/Sushi-Clasic-Completo-scaled.jpg"
+        "image": "https://monstersushi.es/blog/wp-content/uploads/2022/06/Sushi-Clasic-Completo-scaled.jpg",
+        "ingredients": "Fresh raw fish (e.g., salmon, tuna), soy sauce, wasabi.",
+        "recipe": "Slice fish thinly and serve with soy sauce and wasabi on the side."
       },
       {
         "name": "Mochi",
-        "imagen": "https://img-global.cpcdn.com/recipes/2bcbb9e064fee3ff/1200x630cq70/photo.jpg"
+        "image": "https://img-global.cpcdn.com/recipes/2bcbb9e064fee3ff/1200x630cq70/photo.jpg",
+        "ingredients": "Sweet rice flour, sugar, water, fillings (e.g., red bean paste).",
+        "recipe": "Mix rice flour, sugar, and water, then steam. Shape dough around fillings and serve."
       },
       {
         "name": "Dorayaki",
-        "imagen": "https://sal-pimienta.com/wp-content/uploads/2022/03/20220311-DSC00033-2-scaled.jpg"
+        "image": "https://sal-pimienta.com/wp-content/uploads/2022/03/20220311-DSC00033-2-scaled.jpg",
+        "ingredients": "Flour, sugar, eggs, honey, red bean paste.",
+        "recipe": "Make pancake-like batter, cook small rounds, and sandwich red bean paste between two pancakes."
       },
       {
         "name": "Taiyaki",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqaHmKh6WL4GiBoihizyBe7wOD9xqYGsxMWA&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqaHmKh6WL4GiBoihizyBe7wOD9xqYGsxMWA&s",
+        "ingredients": "Flour, sugar, eggs, milk, red bean paste.",
+        "recipe": "Pour batter into a fish-shaped mold, add red bean paste, cover with more batter, and cook until golden."
       },
       {
         "name": "Oden",
-        "imagen": "https://www.nippon.com/es/ncommon/contents/japan-data/2089173/2089173.jpg"
+        "image": "https://www.nippon.com/es/ncommon/contents/japan-data/2089173/2089173.jpg",
+        "ingredients": "Daikon radish, fish cakes, boiled eggs, konjac, dashi broth.",
+        "recipe": "Simmer ingredients in dashi broth until flavors are infused. Serve hot with mustard."
       },
       {
         "name": "Shabu-shabu",
-        "imagen": "https://japon-secreto.com/wp-content/uploads/2023/01/shabushabu01.jpg"
+        "image": "https://japon-secreto.com/wp-content/uploads/2023/01/shabushabu01.jpg",
+        "ingredients": "Thinly sliced beef, vegetables, tofu, dipping sauces.",
+        "recipe": "Dip ingredients into hot broth briefly, then into dipping sauces. Serve immediately."
       },
       {
         "name": "Sukiyaki",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBVOHZX_DcDhYQSHsuQqRyKVJRWbCIz-1Suw&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBVOHZX_DcDhYQSHsuQqRyKVJRWbCIz-1Suw&s",
+        "ingredients": "Thinly sliced beef, tofu, mushrooms, green onions, sukiyaki sauce.",
+        "recipe": "Cook ingredients in sukiyaki sauce in a pot at the table, eat as they are cooked."
       }
     ],
     "Typical_Meal_Time": "12:00 PM - 1:00 PM",
-    "Popular_Ingredients": ["Rice", "Fish", "Soy Sauce"]
+    "Popular_Ingredients": "Rice, Fish, Soy Sauce"
   },
   "French": {
     "Title": "France🇫🇷",
@@ -397,79 +573,115 @@
     "Dishes": [
       {
         "name": "Croissant",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHZB-TTZEKegzkDep9BIrhbGX4wAVMe8T2g&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHZB-TTZEKegzkDep9BIrhbGX4wAVMe8T2g&s",
+        "ingredients": "Flour, butter, sugar, salt, yeast, milk.",
+        "recipe": "Make a dough with flour, water, sugar, and salt. Fold butter into the dough several times, then roll, fold, and chill repeatedly to create layers. Shape, proof, and bake until golden."
       },
       {
         "name": "Baguette",
-        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/B10F0941-3518-440D-A69F-72EFF5F7826B/Derivates/D5691ACE-1B10-42D8-8364-11402524A36D.jpg"
+        "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/B10F0941-3518-440D-A69F-72EFF5F7826B/Derivates/D5691ACE-1B10-42D8-8364-11402524A36D.jpg",
+        "ingredients": "Flour, water, yeast, salt.",
+        "recipe": "Mix ingredients to form a dough, proof, shape into long loaves, let rise again, then bake until crusty and golden."
       },
       {
         "name": "Macaron",
-        "imagen": "https://www.jordanwinery.com/wp-content/uploads/2020/04/French-Macaron-Cookie-Recipe-WebHero-6435.jpg"
+        "image": "https://www.jordanwinery.com/wp-content/uploads/2020/04/French-Macaron-Cookie-Recipe-WebHero-6435.jpg",
+        "ingredients": "Almond flour, powdered sugar, egg whites, granulated sugar, food coloring, fillings (e.g., ganache, buttercream).",
+        "recipe": "Whip egg whites and sugar to form a meringue, fold in almond flour and powdered sugar. Pipe rounds, let rest, bake, and sandwich with filling."
       },
       {
         "name": "Crème brûlée",
-        "imagen": "https://www.splenda.com/wp-content/uploads/2020/05/Creme-Brulee-website-8275-scaled.jpg"
+        "image": "https://www.splenda.com/wp-content/uploads/2020/05/Creme-Brulee-website-8275-scaled.jpg",
+        "ingredients": "Heavy cream, vanilla, sugar, egg yolks.",
+        "recipe": "Whisk yolks with sugar, heat cream and vanilla, mix together, pour into ramekins, bake in a water bath, chill, and caramelize sugar on top before serving."
       },
       {
         "name": "Soupe à l'oignon gratinée",
-        "imagen": "https://www.academiedugout.fr/images/48801/1200-686/photo-ouverture.jpg?poix=50&poiy=50"
+        "image": "https://www.academiedugout.fr/images/48801/1200-686/photo-ouverture.jpg?poix=50&poiy=50",
+        "ingredients": "Onions, beef broth, butter, white wine, baguette slices, Gruyère cheese.",
+        "recipe": "Caramelize onions in butter, deglaze with wine, add broth, simmer, pour into bowls, add bread and cheese, broil until cheese is melted."
       },
       {
         "name": "Boeuf bourguignon",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTloIMsCvHcLYzhzw8gs6nnbuyUhRqSIhNoYQ&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTloIMsCvHcLYzhzw8gs6nnbuyUhRqSIhNoYQ&s",
+        "ingredients": "Beef, red wine, carrots, onions, garlic, bacon, mushrooms, beef broth.",
+        "recipe": "Brown beef and bacon, cook vegetables, add wine and broth, simmer until meat is tender, add mushrooms and finish cooking."
       },
       {
         "name": "Coq au vin",
-        "imagen": "https://static01.nyt.com/images/2023/08/24/multimedia/MC-Coq-Au-Van-ctpm/MC-Coq-Au-Van-ctpm-superJumbo.jpg"
+        "image": "https://static01.nyt.com/images/2023/08/24/multimedia/MC-Coq-Au-Van-ctpm/MC-Coq-Au-Van-ctpm-superJumbo.jpg",
+        "ingredients": "Chicken, red wine, mushrooms, onions, garlic, bacon, broth.",
+        "recipe": "Brown chicken and bacon, cook vegetables, add wine and broth, simmer until tender, garnish with mushrooms and onions."
       },
       {
         "name": "Ratatouille",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrVY1s5Rmmh7ZFqHam721yGI6h7DKtFHIkA&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrVY1s5Rmmh7ZFqHam721yGI6h7DKtFHIkA&s",
+        "ingredients": "Eggplant, zucchini, bell peppers, tomatoes, onions, garlic, herbs.",
+        "recipe": "Slice vegetables, layer in a dish, season with herbs and olive oil, bake until vegetables are tender."
       },
       {
         "name": "Cassoulet",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMqSzGBpJxvIceTpPGQGH21Wni9OfVhbWdQ&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMqSzGBpJxvIceTpPGQGH21Wni9OfVhbWdQ&s",
+        "ingredients": "White beans, pork, duck confit, sausage, garlic, tomatoes.",
+        "recipe": "Cook beans, brown meats, combine in a pot with seasonings, bake slowly until flavors meld together."
       },
       {
         "name": "Crêpes",
-        "imagen": "https://annaspasteleria.com/images/2019post/_facebookShareImage/IMG_7029editweb.jpg"
+        "image": "https://annaspasteleria.com/images/2019post/_facebookShareImage/IMG_7029editweb.jpg",
+        "ingredients": "Flour, milk, eggs, butter, sugar.",
+        "recipe": "Whisk ingredients into a smooth batter, cook in a pan until golden, serve with desired fillings or toppings."
       },
       {
         "name": "Pain au chocolat",
-        "imagen": "https://www.thespruceeats.com/thmb/D9po8nbJ09H8YjW_cFcpAQH7Q5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-easy-pain-au-chocolat-recipe-1374869-hero-C-e1d7f1e947094ab39c3ab063039202e0.jpg"
+        "image": "https://www.thespruceeats.com/thmb/D9po8nbJ09H8YjW_cFcpAQH7Q5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-easy-pain-au-chocolat-recipe-1374869-hero-C-e1d7f1e947094ab39c3ab063039202e0.jpg",
+        "ingredients": "Flour, butter, sugar, milk, chocolate bars.",
+        "recipe": "Use laminated dough similar to croissant dough, place chocolate inside, roll, and bake until golden and flaky."
       },
       {
         "name": "Tarte Tatin",
-        "imagen": "https://imag.bonviveur.com/tarta-tatin-de-manzana-de-las-hermanas-tatin.jpg"
+        "image": "https://imag.bonviveur.com/tarta-tatin-de-manzana-de-las-hermanas-tatin.jpg",
+        "ingredients": "Apples, sugar, butter, puff pastry.",
+        "recipe": "Caramelize sugar and butter, add apples, cover with puff pastry, bake until pastry is golden, invert to serve."
       },
       {
         "name": "Éclair",
-        "imagen": "https://imag.bonviveur.com/interior-de-los-eclairs-de-crema-y-chocolate.jpg"
+        "image": "https://imag.bonviveur.com/interior-de-los-eclairs-de-crema-y-chocolate.jpg",
+        "ingredients": "Flour, eggs, butter, milk, chocolate, pastry cream.",
+        "recipe": "Make choux pastry, pipe into shapes, bake, fill with cream, and glaze with chocolate."
       },
       {
         "name": "Mille-feuille",
-        "imagen": "https://preppykitchen.com/wp-content/uploads/2020/05/Mille-Feuille-Recipe-f-500x375.jpg"
+        "image": "https://preppykitchen.com/wp-content/uploads/2020/05/Mille-Feuille-Recipe-f-500x375.jpg",
+        "ingredients": "Puff pastry, pastry cream, powdered sugar.",
+        "recipe": "Layer baked puff pastry with pastry cream, top with powdered sugar or icing."
       },
       {
         "name": "Quiche Lorraine",
-        "imagen": "https://laroussecocina.mx/wp-content/uploads/2024/06/09_Quiche_Lorrain_COVER.jpg.webp"
+        "image": "https://laroussecocina.mx/wp-content/uploads/2024/06/09_Quiche_Lorrain_COVER.jpg.webp",
+        "ingredients": "Shortcrust pastry, eggs, cream, bacon, cheese.",
+        "recipe": "Prepare pastry crust, fill with egg, cream, bacon, and cheese mixture, bake until set."
       },
       {
         "name": "Gratin Dauphinois",
-        "imagen": "https://arteflame.com/cdn/shop/articles/Gratin_Dauphinois.webp?v=1723394366&width=1600"
+        "image": "https://arteflame.com/cdn/shop/articles/Gratin_Dauphinois.webp?v=1723394366&width=1600",
+        "ingredients": "Potatoes, cream, garlic, cheese, butter.",
+        "recipe": "Layer sliced potatoes with cream, garlic, and cheese in a baking dish, bake until golden and tender."
       },
       {
         "name": "Steak Frites",
-        "imagen": "https://arteflame.com/cdn/shop/articles/Steak_Frites.webp?crop=center&height=1200&v=1723395122&width=1200"
+        "image": "https://arteflame.com/cdn/shop/articles/Steak_Frites.webp?crop=center&height=1200&v=1723395122&width=1200",
+        "ingredients": "Steak, potatoes, salt, oil, butter.",
+        "recipe": "Season steak, cook to desired doneness, fry potatoes until crispy, serve together."
       },
       {
         "name": "Foie gras",
-        "imagen": "https://arteflame.com/cdn/shop/articles/Grilled_Foie_Gras_with_Caramelized_Crust_and_Fruit_Reduction.webp?v=1726164077&width=1600"
+        "image": "https://arteflame.com/cdn/shop/articles/Grilled_Foie_Gras_with_Caramelized_Crust_and_Fruit_Reduction.webp?v=1726164077&width=1600",
+        "ingredients": "Duck liver, salt, spices, cognac.",
+        "recipe": "Season liver, marinate with cognac, cook to desired texture, often served with fruit preserves or reduction."
       }
     ],
     "Typical_Meal_Time": "12:00 PM - 2:00 PM",
-    "Popular_Ingredients": ["Wheat", "Butter", "Cheese"]
+    "Popular_Ingredients": "Wheat, Butter, Cheese"
   },
   "Spanish": {
     "Title": "Spain 🇪🇸",
@@ -477,47 +689,67 @@
     "Dishes": [
       {
         "name": "Paella",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lcYfTmmpU9_0M1swbJEjT80Gz8BO9lIgpQ&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lcYfTmmpU9_0M1swbJEjT80Gz8BO9lIgpQ&s",
+        "ingredients": "2 cups of short-grain rice, 1/2 teaspoon of saffron threads, 1 pound of chicken, cut into pieces, 1/2 pound of rabbit (optional), 1/2 cup of green beans, 1/2 cup of peas, 1 tomato, grated, 1/4 cup of olive oil, 1 teaspoon of paprika, 4 cups of chicken broth, Salt to taste, Lemon wedges for garnish",
+        "recipe": "In a large paella pan, heat the olive oil over medium heat, Add the chicken and rabbit pieces and brown on all sides, Add the green beans and cook for a few minutes until tender, Stir in the grated tomato and paprika, and cook for another 2 minutes, Add the rice and saffron, ensuring the rice is evenly coated with the oil and seasonings, Pour in the chicken broth and spread the rice evenly in the pan. Do not stir after this point, Cook on medium heat for about 15-20 minutes or until the rice is cooked and the liquid is absorbed, Let the paella rest for 5 minutes, then garnish with lemon wedges before serving."
       },
       {
         "name": "Tortilla Española",
-        "imagen": "https://mojo.generalmills.com/api/public/content/9xIHKwJDH0-1wbHPsVCCVQ_gmi_hi_res_jpeg.jpeg?v=2bfc22c6&t=16e3ce250f244648bef28c5949fb99ff"
+        "image": "https://mojo.generalmills.com/api/public/content/9xIHKwJDH0-1wbHPsVCCVQ_gmi_hi_res_jpeg.jpeg?v=2bfc22c6&t=16e3ce250f244648bef28c5949fb99ff",
+        "ingredients": "4 large potatoes, peeled and thinly sliced, 1 onion, thinly sliced, 6 large eggs, 1/2 cup of olive oil, Salt to taste",
+        "recipe": "1. Heat the olive oil in a large frying pan over medium heat, 2. Add the sliced potatoes and onions, and cook until the potatoes are tender but not browned, about 15 minutes, 3. Drain the potatoes and onions, reserving the oil, 4. In a large bowl, beat the eggs and season with salt, 5. Add the potato and onion mixture to the eggs and mix gently, 6. Heat a few tablespoons of the reserved oil in the pan and pour in the egg mixture, 7. Cook on low heat for about 5-7 minutes or until the bottom is golden and set, 8. Flip the tortilla onto a plate and slide it back into the pan to cook the other side for an additional 3-4 minutes, 9. Serve warm or at room temperature."
       },
       {
         "name": "Gazpacho",
-        "imagen": "https://i.blogs.es/e64620/gazpacho/1366_2000.jpg"
+        "image": "https://i.blogs.es/e64620/gazpacho/1366_2000.jpg",
+        "ingredients": "4 large tomatoes, chopped, 1 cucumber, peeled and chopped, 1 green bell pepper, chopped, 2 cloves of garlic, 1/4 cup of olive oil, 2 tablespoons of vinegar, 1 slice of stale bread, soaked in water (optional), Salt and pepper to taste, Cold water as needed, elaboration",
+        "recipe": "In a blender, combine the tomatoes, cucumber, bell pepper, garlic, and soaked bread if using, Blend until smooth and gradually add olive oil and vinegar, Season with salt and pepper to taste, Add cold water to achieve the desired consistency, Chill in the refrigerator for at least an hour before serving, Serve cold with a drizzle of olive oil and optional garnish of chopped vegetables or croutons."
       },
       {
         "name": "Jamón Ibérico",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrAtkeX0214muY7mPos8IrxZlHnMaoT3-1g&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrAtkeX0214muY7mPos8IrxZlHnMaoT3-1g&s",
+        "ingredients": "Thin slices of Jamón Ibérico",
+        "recipe": "Ensure the Jamón Ibérico is at room temperature before serving to enhance its flavor, Slice the jamón thinly using a sharp knife, cutting at an angle for the best texture, Serve the slices on a wooden board or plate, Accompany with breadsticks or slices of crusty bread, if desired."
       },
       {
         "name": "Chorizo",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThg8MGLdqPDHJHm9VM2cLElcCMWqF5MJc_Dw&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThg8MGLdqPDHJHm9VM2cLElcCMWqF5MJc_Dw&s",
+        "ingredients": "1 pound of chorizo sausage (Spanish or Mexican, depending on your preference), 1 tablespoon of olive oil, 1 clove garlic, minced (optional), 1/2 teaspoon of smoked paprika (optional for extra flavor), Fresh parsley, chopped (for garnish), Lemon wedges (optional, for serving)",
+        "recipe": "Heat the olive oil in a large frying pan over medium heat. If using, add the minced garlic and sauté for 1-2 minutes until fragrant, Slice the chorizo sausages into 1/4-inch thick rounds. If you prefer, you can remove the casing and crumble the sausage instead, Add the chorizo slices to the pan and cook for 5-7 minutes, turning occasionally, until the chorizo is browned and crispy around the edges. If you like, sprinkle in smoked paprika for an added depth of flavor during the cooking process, Once cooked, remove the chorizo from the pan and place on a plate lined with paper towels to drain any excess oil, Serve the chorizo warm as a tapa, part of a larger Spanish or Mexican meal, or on top of a salad. Garnish with freshly chopped parsley and serve with lemon wedges on the side for an added zesty kick."
       },
       {
         "name": "Churros",
-        "imagen": "https://www.lanacion.com.ar/resizer/v2/churros-73IWHYYOHRF5LLEV5SBNY33J3M.jpg?auth=faca958597f1068a605591e02df8a4fe9f1b656cf30d1637fe0d6c8b3b4ae18d&width=420&height=280&quality=70&smart=true"
+        "image": "https://www.lanacion.com.ar/resizer/v2/churros-73IWHYYOHRF5LLEV5SBNY33J3M.jpg?auth=faca958597f1068a605591e02df8a4fe9f1b656cf30d1637fe0d6c8b3b4ae18d&width=420&height=280&quality=70&smart=true",
+        "ingredients": "1 cup of all-purpose flour, 1 cup of water, 2 tablespoons of unsalted butter, 1 tablespoon of sugar, 1/4 teaspoon of salt, Oil for frying, Sugar and cinnamon for coating",
+        "recipe": "In a saucepan, combine the water, butter, sugar, and salt, and bring to a boil, Remove from heat and add the flour all at once, stirring until a dough forms, Transfer the dough to a piping bag fitted with a star tip, Heat oil in a deep pan over medium-high heat, Pipe the dough into the hot oil in 4-inch strips and fry until golden brown, Remove and drain on paper towels, Toss the churros in a mixture of sugar and cinnamon before serving."
       },
       {
         "name": "Cocido Madrileño",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRmPzgu2VhHonHzho5axbP_0_yYEztUI5rg&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRmPzgu2VhHonHzho5axbP_0_yYEztUI5rg&s",
+        "ingredients": "1 cup of dried chickpeas, soaked overnight, 1/2 pound of pork shoulder,1/2 pound of beef shank, 1 chicken thigh, 1 chorizo sausage, 1 morcilla sausage, 2 carrots, peeled and sliced, 1 potato, peeled and quartered, 1/2 cabbage, chopped, Salt to taste",
+        "recipe": "In a large pot, add the soaked chickpeas, pork, beef, and chicken, and cover with water, Bring to a boil, skimming off any foam that rises, Lower the heat and simmer for 1 hour, Add the chorizo, morcilla, carrots, potatoes, and cabbage, Cook for another hour or until everything is tender, Serve the broth as a first course, followed by the meats and vegetables on a separate platter."
       },
       {
         "name": "Fabada Asturiana",
-        "imagen": "https://comedera.com/wp-content/uploads/sites/9/2018/09/fabada-asturiana.jpg"
+        "image": "https://comedera.com/wp-content/uploads/sites/9/2018/09/fabada-asturiana.jpg",
+        "ingredients": "1 cup of fabada beans, soaked overnight, 2 chorizo sausages, 1 morcilla sausage, 1/2 pound of pancetta, 1 teaspoon of paprika, A pinch of saffron, Salt to taste",
+        "recipe": "In a large pot, place the soaked beans, chorizo, morcilla, and pancetta, Cover with water and bring to a boil, then reduce the heat and simmer, Add the paprika and saffron, and cook for 2-3 hours or until the beans are tender, Adjust seasoning with salt and serve hot with bread."
       },
       {
         "name": "Pulpo a la Gallega",
-        "imagen": "https://www.laespanolaaceites.com/wp-content/uploads/2019/05/pulpo-a-la-gallega-1080x671.jpg"
+        "imagen": "https://www.laespanolaaceites.com/wp-content/uploads/2019/05/pulpo-a-la-gallega-1080x671.jpg",
+        "ingredients": "1 whole octopus, cleaned, 4 potatoes, peeled and sliced, Paprika,Olive oil, Salt",
+        "recipe": "Bring a large pot of salted water to a boil and add the octopus, Cook for about 40-50 minutes or until tender, In a separate pot, boil the potato slices until tender and arrange them on a serving dish, Slice the cooked octopus and place on top of the potatoes, Drizzle with olive oil, sprinkle with paprika, and season with salt before serving."
       },
       {
         "name": "Gambas al Ajillo",
-        "imagen": "https://www.unileverfoodsolutions.es/dam/global-ufs/mcos/spain/acm/selling-story-calcmenu/gambas-ajillo-header.jpg"
+        "image": "https://www.unileverfoodsolutions.es/dam/global-ufs/mcos/spain/acm/selling-story-calcmenu/gambas-ajillo-header.jpg",
+        "ingredients": "1/2 pound of shrimp, peeled and deveined, 4 cloves of garlic, thinly sliced, 1/4 cup of olive oil, 1 chili pepper, sliced, Fresh parsley, chopped, Salt to taste",
+        "recipe": "Heat the olive oil in a skillet over medium heat, Add the garlic and chili pepper and cook until fragrant, Add the shrimp and cook for 2-3 minutes until pink and fully cooked, Sprinkle with chopped parsley and serve immediately with crusty bread."
       }
     ],
     "Typical_Meal_Time": "2:00 PM - 3:00 PM",
-    "Popular_Ingredients": ["Olive Oil", "Garlic", "Saffron"]
+    "Popular_Ingredients": "Olive Oil, Garlic, Saffron"
   },
   "Indian": {
     "Title": "India 🇮🇳",
@@ -525,47 +757,67 @@
     "Dishes": [
       {
         "name": "Chicken Tikka Masala",
-        "imagen": "https://www.allrecipes.com/thmb/1ul-jdOz8H4b6BDrRcYOuNmJgt4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/239867chef-johns-chicken-tikka-masala-ddmfs-3X4-0572-e02a25f8c7b745459a9106e9eb13de10.jpg"
+        "image": "https://www.allrecipes.com/thmb/1ul-jdOz8H4b6BDrRcYOuNmJgt4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/239867chef-johns-chicken-tikka-masala-ddmfs-3X4-0572-e02a25f8c7b745459a9106e9eb13de10.jpg",
+        "ingredients": "Chicken, yogurt, garlic, ginger, turmeric, garam masala, chili powder, tomatoes, cream.",
+        "recipe": "Marinate chicken in yogurt, garlic, ginger, and spices. Grill until cooked. Simmer in tomato cream sauce and serve."
       },
       {
         "name": "Naan Bread",
-        "imagen": "https://lilluna.com/wp-content/uploads/2022/11/naan3-resize-13.jpg"
+        "image": "https://lilluna.com/wp-content/uploads/2022/11/naan3-resize-13.jpg",
+        "ingredients": "Flour, yeast, warm water, sugar, salt, ghee.",
+        "recipe": "Mix yeast with sugar and warm water. Combine with flour and salt, knead, and let rise. Roll into circles and cook in a hot pan with ghee."
       },
       {
         "name": "Samosas",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG545FDRuisaSfjR84XJcSET-QxI8d1tBANw&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG545FDRuisaSfjR84XJcSET-QxI8d1tBANw&s",
+        "ingredients": "Potatoes, peas, cumin, garam masala, chili, coriander, flour, salt, oil.",
+        "recipe": "Cook spiced potatoes and peas. Wrap in dough made from flour, salt, and water. Fry until golden."
       },
       {
         "name": "Biryani",
-        "imagen": "https://www.maggiarabia.com/sites/default/files/styles/home_stage_944_531/public/srh_recipes/30c29da8aec1403f42e82552d927abab.png?h=4f5b30f1&itok=vMhn6_eK"
+        "image": "https://www.maggiarabia.com/sites/default/files/styles/home_stage_944_531/public/srh_recipes/30c29da8aec1403f42e82552d927abab.png?h=4f5b30f1&itok=vMhn6_eK",
+        "ingredients": "Rice, chicken or lamb, yogurt, onions, garlic, saffron, spices, nuts.",
+        "recipe": "Layer marinated meat with saffron rice, spices, and nuts. Cook under low heat until done."
       },
       {
         "name": "Butter Chicken",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgjCa8xIZL3jERYF_GJQtNOM9rMSsIjRtwvQ&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgjCa8xIZL3jERYF_GJQtNOM9rMSsIjRtwvQ&s",
+        "ingredients": "Chicken, butter, cream, tomatoes, garlic, ginger, garam masala, chili powder, cumin.",
+        "recipe": "Cook chicken with spices, garlic, and ginger. Add tomatoes and cream, simmer until thick."
       },
       {
         "name": "Tandoori Chicken",
-        "imagen": "https://www.allrecipes.com/thmb/EDDjG28lLcvR9evPlQICAr-A8sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/50347-indian-tandoori-chicken-DDMFS-2x1-3032-fc3ee15caaba42859c7117827771884b.jpg"
+        "image": "https://www.allrecipes.com/thmb/EDDjG28lLcvR9evPlQICAr-A8sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/50347-indian-tandoori-chicken-DDMFS-2x1-3032-fc3ee15caaba42859c7117827771884b.jpg",
+        "ingredients": "Chicken, yogurt, lemon juice, garlic, ginger, cumin, paprika, garam masala.",
+        "recipe": "Marinate chicken in spiced yogurt mix. Grill until charred."
       },
       {
         "name": "Palak Paneer",
-        "imagen": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/palak-paneer-3.jpg"
+        "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/palak-paneer-3.jpg",
+        "ingredients": "Spinach, paneer (cottage cheese), cream, tomatoes, garlic, garam masala.",
+        "recipe": "Cook spinach with tomatoes, spices, and garlic. Add paneer and cream, heat through."
       },
       {
         "name": "Dal Makhani",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIMmPq015HLQYH0kXhpbfwMePcJOxUcMyNA&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIMmPq015HLQYH0kXhpbfwMePcJOxUcMyNA&s",
+        "ingredients": "Black lentils, kidney beans, cream, butter, garlic, ginger, tomatoes, spices.",
+        "recipe": "Simmer lentils and beans with spices and tomatoes. Finish with cream and butter."
       },
       {
         "name": "Chana Masala",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLZ9zAbgO4qFIe-JMqFMNVwAOSCsL27rtLQ&s"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLZ9zAbgO4qFIe-JMqFMNVwAOSCsL27rtLQ&s",
+        "ingredients": "Chickpeas, onions, tomatoes, garlic, ginger, chilies, cumin, coriander.",
+        "recipe": "Cook chickpeas with onions, tomatoes, spices, and herbs until flavorful."
       },
       {
         "name": "Vada Pav",
-        "imagen": "https://www.seriouseats.com/thmb/1jR0e6R3EVT6JEYYNGcneFMY2rs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240308-VadaPav-SEA-KanikaandJatinSharma-hero-006f8f5a76254feca693a8b4a4bd60c0.jpg"
+        "image": "https://www.seriouseats.com/thmb/1jR0e6R3EVT6JEYYNGcneFMY2rs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240308-VadaPav-SEA-KanikaandJatinSharma-hero-006f8f5a76254feca693a8b4a4bd60c0.jpg",
+        "ingredients": "Potato patty, bread bun, garlic, green chilies, mustard seeds, turmeric, gram flour.",
+        "recipe": "Make spiced potato patties, coat in gram flour batter and fry. Serve in a bun with chutney."
       }
     ],
     "Typical_Meal_Time": "1:00 PM - 2:00 PM",
-    "Popular_Ingredients": ["Spices", "Rice", "Lentils"]
+    "Popular_Ingredients": "Spices, Rice, Lentils"
   },
   "Chinese": {
     "Title": "China 🇨🇳",
@@ -573,47 +825,67 @@
     "Dishes": [
       {
         "name": "Peking Duck",
-        "imagen": "https://static01.nyt.com/images/2019/01/28/dining/kc-peking-duck/kc-peking-duck-superJumbo-v2.jpg"
+        "image": "https://static01.nyt.com/images/2019/01/28/dining/kc-peking-duck/kc-peking-duck-superJumbo-v2.jpg",
+        "ingredients": "Duck, Hoisin sauce, Scallions, Cucumbers, Chinese pancakes",
+        "recipe": "Marinate the duck with spices and hoisin sauce. Roast the duck in the oven until the skin is crispy. Slice the duck and serve with pancakes, hoisin sauce, scallions, and cucumber slices. Wrap each slice of duck with sauce and vegetables in a pancake."
       },
       {
         "name": "Dim Sum",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/07/18/fotografia-de-un-dim-sum.jpeg"
+        "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/07/18/fotografia-de-un-dim-sum.jpeg",
+        "ingredients": "Wonton wrappers, Shrimp, Pork, Ginger, Soy sauce, Green onions",
+        "recipe": "Mix ground pork, shrimp, ginger, soy sauce, and green onions. Place a small amount of filling in each wonton wrapper and seal. Steam the dim sum for about 10 minutes. Serve with soy sauce or chili oil on the side."
       },
       {
         "name": "Noodles",
-        "imagen": "https://i.blogs.es/8a1df3/dap2-2/1366_2000.jpg"
+        "image": "https://i.blogs.es/8a1df3/dap2-2/1366_2000.jpg",
+        "ingredients": "Egg noodles, Soy sauce, Ginger, Garlic, Green onions, Sesame oil, Vegetables (optional)",
+        "recipe": "Boil the noodles until tender and drain. In a pan, sauté ginger, garlic, and green onions in sesame oil. Add the noodles and soy sauce to the pan and stir-fry. Optionally, add vegetables like bell peppers or broccoli. Serve hot."
       },
       {
         "name": "Fried Rice",
-        "imagen": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipes%2F2024-04-fried-rice%2Ffried-rice-060_1"
+        "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipes%2F2024-04-fried-rice%2Ffried-rice-060_1",
+        "ingredients": "Cooked rice, Soy sauce, Egg, Green onions, Peas, Carrots, Garlic",
+        "recipe": "In a pan, scramble the egg and set aside. Sauté garlic, peas, carrots, and green onions. Add the rice to the pan and stir-fry with soy sauce. Mix in the scrambled egg and serve hot."
       },
       {
         "name": "Spring Rolls",
-        "imagen": "https://www.indianhealthyrecipes.com/wp-content/uploads/2013/12/spring-rolls.jpg"
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2013/12/spring-rolls.jpg",
+        "ingredients": "Spring roll wrappers, Cabbage, Carrots, Bamboo shoots, Soy sauce, Ground pork (optional)",
+        "recipe": "In a pan, cook ground pork if using, then add cabbage, carrots, and bamboo shoots. Add soy sauce and cook until vegetables are tender. Place filling in spring roll wrappers, roll tightly, and seal. Fry in oil until crispy and golden. Serve with dipping sauce."
       },
       {
         "name": "Dumplings",
-        "imagen": "https://t1.uc.ltmcdn.com/es/posts/9/5/9/como_hacer_dumplings_chinos_46959_600.jpg"
+        "image": "https://t1.uc.ltmcdn.com/es/posts/9/5/9/como_hacer_dumplings_chinos_46959_600.jpg",
+        "ingredients": "Dumpling wrappers, Ground pork, Ginger, Garlic, Soy sauce, Green onions",
+        "recipe": "Combine ground pork, ginger, garlic, soy sauce, and green onions. Place a small amount of filling in each dumpling wrapper and seal tightly. Steam or boil the dumplings until cooked through. Serve with soy sauce or vinegar."
       },
       {
         "name": "Sweet and Sour Pork",
-        "imagen": "https://cdn.sanity.io/images/2r0kdewr/production/0bc6f529c1200c84a8465d9317c3029898a4d4fa-1500x844.jpg"
+        "image": "https://cdn.sanity.io/images/2r0kdewr/production/0bc6f529c1200c84a8465d9317c3029898a4d4fa-1500x844.jpg",
+        "ingredients": "Pork, Bell peppers, Pineapple, Onion, Vinegar, Sugar, Ketchup",
+        "recipe": "Cut pork into pieces and fry until crispy. In a pan, mix vinegar, sugar, and ketchup to make the sweet and sour sauce. Add bell peppers, onions, and pineapple to the pan and stir-fry. Toss the fried pork in the sauce and serve hot."
       },
       {
         "name": "Kung Pao Chicken",
-        "imagen": "https://www.seriouseats.com/thmb/AaMf6tliWc3jh0R-9KLiJG5fzZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2014__07__2021-02-12-Take-Out-Kung-Pao-Chicken-MHOM-11-c46f6c06713c45c5a287ddbf08779d04.jpg"
+        "image": "https://www.seriouseats.com/thmb/AaMf6tliWc3jh0R-9KLiJG5fzZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2014__07__2021-02-12-Take-Out-Kung-Pao-Chicken-MHOM-11-c46f6c06713c45c5a287ddbf08779d04.jpg",
+        "ingredients": "Chicken, Bell peppers, Peanuts, Chili peppers, Garlic, Soy sauce, Vinegar",
+        "recipe": "Marinate chicken in soy sauce and vinegar. Stir-fry chili peppers and garlic in a pan, then add chicken and cook until browned. Add bell peppers and peanuts, stir-fry until everything is well combined. Serve hot."
       },
       {
         "name": "Mapo Tofu",
-        "imagen": "https://cookingwithdog.com/wp-content/uploads/2017/04/mapo-tofu-00.jpg"
+        "image": "https://cookingwithdog.com/wp-content/uploads/2017/04/mapo-tofu-00.jpg",
+        "ingredients": "Tofu, Ground pork, Garlic, Ginger, Chili bean paste, Soy sauce, Green onions",
+        "recipe": "Sauté garlic and ginger in a pan. Add ground pork and cook until browned. Add chili bean paste and soy sauce, then gently fold in tofu cubes. Simmer until flavors are combined. Garnish with green onions and serve."
       },
       {
         "name": "Chow Mein",
-        "imagen": "https://img-global.cpcdn.com/recipes/45397933c24452d8/1200x630cq70/photo.jpg"
+        "image": "https://img-global.cpcdn.com/recipes/45397933c24452d8/1200x630cq70/photo.jpg",
+        "ingredients": "Egg noodles, Bell peppers, Carrots, Green onions, Soy sauce, Garlic, Sesame oil",
+        "recipe": "Boil noodles until just tender, then drain. Stir-fry garlic, bell peppers, carrots, and green onions in sesame oil. Add the noodles and soy sauce to the pan, stir-frying until combined. Serve hot."
       }
     ],
     "Typical_Meal_Time": "12:00 PM - 1:00 PM",
-    "Popular_Ingredients": ["Rice", "Noodles", "Soy Sauce"]
+    "Popular_Ingredients": "Rice, Noodles, Soy Sauce"
   },
   "Greek": {
     "Title": "Greece 🇬🇷",
@@ -621,42 +893,60 @@
     "Dishes": [
       {
         "name": "Moussaka",
-        "imagen": "https://www.recipetineats.com/tachyon/2019/03/Greek-Moussaka_3-re-edited-SQ.jpg?resize=500%2C375"
+        "image": "https://www.recipetineats.com/tachyon/2019/03/Greek-Moussaka_3-re-edited-SQ.jpg?resize=500%2C375",
+        "ingredients": "1 kg ground beef or lamb, 2 large eggplants, 3 large potatoes, 1 large onion, 3 garlic cloves, 1 cup tomato sauce, 1 tsp cinnamon, 1 tsp nutmeg, salt and pepper, 1 cup grated cheese. Béchamel: 1/4 cup butter, 1/4 cup flour, 2 cups milk, salt, pepper, pinch of nutmeg.",
+        "recipe": "Slice eggplants and potatoes; fry and set aside. Sauté onion and garlic, add meat, then tomato sauce, cinnamon, nutmeg, salt, and pepper. Simmer. For béchamel, melt butter, stir in flour, gradually add milk. Layer potatoes, eggplants, meat in a dish; top with béchamel. Bake at 180°C for 30-40 minutes."
       },
       {
         "name": "Gyros",
-        "imagen": "https://i.blogs.es/b0c70d/gyros-griego-de-ternera/1366_2000.jpg"
+        "image": "https://i.blogs.es/b0c70d/gyros-griego-de-ternera/1366_2000.jpg",
+        "ingredients": "500g pork or chicken, 2 tbsp olive oil, 1 tsp oregano, 1 tsp thyme, 1 tsp garlic powder, salt, pepper, 4 pita breads, sliced tomatoes, sliced onions, tzatziki sauce.",
+        "recipe": "Marinate meat with olive oil, oregano, thyme, garlic powder, salt, and pepper. Grill or pan-fry until cooked. Serve in pita bread with tomato, onion, and tzatziki sauce."
       },
       {
         "name": "Souvlaki",
-        "imagen": "https://www.allrecipes.com/thmb/t9I4JgEI8-TnPcnAHV-RvQFcEFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14713-souvlaki-ddmfs-Beauty-3x4-06471d380b394255a7716405c4ec0a22.jpg"
+        "image": "https://www.allrecipes.com/thmb/t9I4JgEI8-TnPcnAHV-RvQFcEFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14713-souvlaki-ddmfs-Beauty-3x4-06471d380b394255a7716405c4ec0a22.jpg",
+        "ingredients": "500g pork or chicken cubes, 2 tbsp olive oil, 1 tsp oregano, 1 lemon (juiced), salt, pepper, wooden skewers.",
+        "recipe": "Marinate meat with olive oil, oregano, lemon juice, salt, and pepper. Skewer the meat and grill until cooked through. Serve with pita bread and tzatziki."
       },
       {
         "name": "Greek Salad",
-        "imagen": "https://feelgoodfoodie.net/wp-content/uploads/2020/05/Greek-Salad-TIMG.jpg"
+        "image": "https://feelgoodfoodie.net/wp-content/uploads/2020/05/Greek-Salad-TIMG.jpg",
+        "ingredients": "1 cucumber, 3 tomatoes, 1 red onion, 1 green bell pepper, 100g feta cheese, 10 black olives, 2 tbsp olive oil, 1 tsp oregano, salt and pepper.",
+        "recipe": "Chop cucumber, tomatoes, onion, and bell pepper. Toss with olives, olive oil, oregano, salt, and pepper. Top with feta cheese cubes."
       },
       {
         "name": "Tzatziki",
-        "imagen": "https://www.allrecipes.com/thmb/A7hvzxDejp12Qlu3ZkRkPcHbhIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/145409_GreekTzatziki_ddmfs_2x1_3904-dfa1ed5c155645beaa4a5834afb618dc.jpg"
+        "image": "https://www.allrecipes.com/thmb/A7hvzxDejp12Qlu3ZkRkPcHbhIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/145409_GreekTzatziki_ddmfs_2x1_3904-dfa1ed5c155645beaa4a5834afb618dc.jpg",
+        "ingredients": "1 cup Greek yogurt, 1 cucumber (grated), 2 garlic cloves (minced), 1 tbsp olive oil, 1 tbsp lemon juice, 1 tbsp fresh dill, salt and pepper.",
+        "recipe": "Mix grated cucumber with yogurt, garlic, olive oil, lemon juice, and dill. Season with salt and pepper. Chill before serving."
       },
       {
         "name": "Dolmades",
-        "imagen": "https://mostly-greek.com/wp-content/uploads/2018/08/20180715_170443.jpg"
+        "image": "https://mostly-greek.com/wp-content/uploads/2018/08/20180715_170443.jpg",
+        "ingredients": "20 grape leaves, 1 cup rice, 1 onion (chopped), 1 tbsp olive oil, 1 lemon (juiced), salt, pepper, fresh mint, fresh dill.",
+        "recipe": "Sauté onion in olive oil. Mix with rice, lemon juice, salt, pepper, mint, and dill. Place a small amount on each grape leaf, roll up, and steam until rice is cooked."
       },
       {
         "name": "Spanakopita",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYipDnSHXnXdFGMJcX166WkX9Q5Prl8U90Kw&s"
+        "image": "https://i0.wp.com/migourmetta.com/wp-content/uploads/2020/05/Receta-Spanakopita-Migourmetta-4.jpg?fit=1300%2C686&ssl=1",
+        "ingredients": "500g spinach, 200g feta cheese, 1 onion, 1 tbsp olive oil, 1 egg, salt, pepper, phyllo pastry sheets, butter (melted).",
+        "recipe": "Sauté onion in olive oil, add spinach until wilted. Mix with feta, egg, salt, and pepper. Layer phyllo sheets, brushing with butter, add filling, top with more phyllo. Bake at 180°C until golden."
       },
       {
         "name": "Baklava",
-        "imagen": "https://i.ytimg.com/vi/r35t0IVGK_Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB3XAXA_H5d4KpTIuO81eaBeTyaNA"
+        "image": "https://i.ytimg.com/vi/r35t0IVGK_Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB3XAXA_H5d4KpTIuO81eaBeTyaNA",
+        "ingredients": "200g walnuts, 200g almonds, 1 tsp cinnamon, 1/2 cup butter, 1 pack phyllo pastry, 1 cup honey, 1/2 cup sugar, 1/2 cup water, 1 tsp lemon juice.",
+        "recipe": "Chop nuts and mix with cinnamon. Layer phyllo sheets in a pan, brushing each with butter, sprinkle nut mixture. Bake at 180°C. Boil honey, sugar, water, lemon juice for syrup; pour over baklava."
       },
       {
         "name": "Loukoumades",
-        "imagen": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/eda9632d18702d7f7c648fd4424459d5/Derivates/8dd5474c9079c863a7f21eda1db34c6d66821a31.jpg"
+        "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/eda9632d18702d7f7c648fd4424459d5/Derivates/8dd5474c9079c863a7f21eda1db34c6d66821a31.jpg",
+        "ingredients": "2 cups flour, 1 tbsp sugar, 1 tsp yeast, 1 cup warm water, honey, cinnamon, oil for frying.",
+        "recipe": "Mix flour, sugar, yeast, and water to make a dough; let rise. Fry spoonfuls of dough until golden. Drizzle with honey and sprinkle with cinnamon."
       }
     ],
     "Typical_Meal_Time": "2:00 PM - 3:00 PM",
-    "Popular_Ingredients": ["Olive Oil", "Lemon", "Oregano"]
+    "Popular_Ingredients": "Olive Oil, Lemon, Oregano"
   }
 }

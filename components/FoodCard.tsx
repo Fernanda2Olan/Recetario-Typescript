@@ -9,13 +9,12 @@ interface foodCardProps {
 
 const FoodCard: React.FC<foodCardProps> = ({ title, info }) => {
   return (
-    <View>
-      <Link
-        href={{ pathname: "/foodPage", params: { info: JSON.stringify(info) } }}
-      >
-        <Text style={styles.title}>{title}</Text>
-      </Link>
-    </View>
+    <Link
+      style={styles.linkStyle}
+      href={{ pathname: "/foodPage", params: { info: JSON.stringify(info) } }}
+    >
+      <Text style={styles.title}>{title}</Text>
+    </Link>
   );
 };
 
@@ -25,4 +24,12 @@ const styles = StyleSheet.create({
   container: {},
   foodCardStyle: {},
   title: { marginTop: 10, fontWeight: "bold", textAlign: "center" },
+
+  linkStyle: {
+    height: "100%",
+    width: "100%",
+    textAlign: "center",
+    justifyContent: "center",
+    alignItems: "center",
+  },
 });
